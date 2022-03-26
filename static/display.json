@@ -1,0 +1,231 @@
+[
+  {
+    "class": "d-none",
+    "property": "display: none;",
+    "category": "Display"
+  },
+  {
+    "class": "d-inline-block",
+    "property": "display: inline-block;",
+    "category": "Display"
+  },
+  {
+    "class": "d-inline",
+    "property": "display: inline;",
+    "category": "Display"
+  },
+  {
+    "class": "d-block",
+    "property": "display: block;",
+    "category": "Display"
+  },
+  {
+    "class": "d-table",
+    "property": "display: table;",
+    "category": "Display"
+  },
+  {
+    "class": "d-table-cell",
+    "property": "display: table-cell;",
+    "category": "Display"
+  },
+  {
+    "class": "d-table-row",
+    "property": "display: table-row;",
+    "category": "Display"
+  },
+  {
+    "class": "d-flex",
+    "property": "display: flex;",
+    "category": "Display"
+  },
+  {
+    "class": "d-inline-flex",
+    "property": "display: inline-flex;",
+    "category": "Display"
+  },
+
+  {
+    "class": "d-sm-none",
+    "property": "@media (min-width: 600px) { display: none; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-sm-inline-block",
+    "property": "@media (min-width: 600px) { display: inline-block; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-sm-inline",
+    "property": "@media (min-width: 600px) { display: inline; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-sm-block",
+    "property": "@media (min-width: 600px) { display: block; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-sm-table",
+    "property": "@media (min-width: 600px) { display: table; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-sm-table-cell",
+    "property": "@media (min-width: 600px) { display: table-cell; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-sm-table-row",
+    "property": "@media (min-width: 600px) { display: table-row; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-sm-flex",
+    "property": "@media (min-width: 600px) { display: flex; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-sm-inline-flex",
+    "property": "@media (min-width: 600px) { display: inline-flex; }",
+    "category": "Display"
+  },
+
+  {
+    "class": "d-md-none",
+    "property": "@media (min-width: 960px) { display: none; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-md-inline-block",
+    "property": "@media (min-width: 960px) { display: inline-block; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-md-inline",
+    "property": "@media (min-width: 960px) { display: inline; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-md-block",
+    "property": "@media (min-width: 960px) { display: block; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-md-table",
+    "property": "@media (min-width: 960px) { display: table; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-md-table-cell",
+    "property": "@media (min-width: 960px) { display: table-cell; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-md-table-row",
+    "property": "@media (min-width: 960px) { display: table-row; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-md-flex",
+    "property": "@media (min-width: 960px) { display: flex; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-md-inline-flex",
+    "property": "@media (min-width: 960px) { display: inline-flex; }",
+    "category": "Display"
+  },
+
+  {
+    "class": "d-lg-none",
+    "property": "@media (min-width: 1264px) { display: none; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-lg-inline-block",
+    "property": "@media (min-width: 1264px) { display: inline-block; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-lg-inline",
+    "property": "@media (min-width: 1264px) { display: inline; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-lg-block",
+    "property": "@media (min-width: 1264px) { display: block; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-lg-table",
+    "property": "@media (min-width: 1264px) { display: table; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-lg-table-cell",
+    "property": "@media (min-width: 1264px) { display: table-cell; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-lg-table-row",
+    "property": "@media (min-width: 1264px) { display: table-row; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-lg-flex",
+    "property": "@media (min-width: 1264px) { display: flex; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-lg-inline-flex",
+    "property": "@media (min-width: 1264px) { display: inline-flex; }",
+    "category": "Display"
+  },
+
+  {
+    "class": "d-xl-none",
+    "property": "@media (min-width: 1904px) { display: none; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-xl-inline-block",
+    "property": "@media (min-width: 1904px) { display: inline-block; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-xl-inline",
+    "property": "@media (min-width: 1904px) { display: inline; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-xl-block",
+    "property": "@media (min-width: 1904px) { display: block; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-xl-table",
+    "property": "@media (min-width: 1904px) { display: table; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-xl-table-cell",
+    "property": "@media (min-width: 1904px) { display: table-cell; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-xl-table-row",
+    "property": "@media (min-width: 1904px) { display: table-row; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-xl-flex",
+    "property": "@media (min-width: 1904px) { display: flex; }",
+    "category": "Display"
+  },
+  {
+    "class": "d-xl-inline-flex",
+    "property": "@media (min-width: 1904px) { display: inline-flex; }",
+    "category": "Display"
+  }
+]

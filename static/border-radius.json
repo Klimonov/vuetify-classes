@@ -1,0 +1,245 @@
+[
+  {
+    "class": "rounded-sm",
+    "property": "border-radius: 2px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded",
+    "property": "border-radius: 4px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-0",
+    "property": "border-radius: 0;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-lg",
+    "property": "border-radius: 8px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-xl",
+    "property": "border-radius: 24px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-pill",
+    "property": "border-radius: 9999px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-circle",
+    "property": "border-radius: 50%;",
+    "category": "Border radius"
+  },
+
+  {
+    "class": "rounded-l-0",
+    "property": "border-top-left-radius: 0; border-bottom-left-radius: 0;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-l-lg",
+    "property": "border-top-left-radius: 8px; border-bottom-left-radius: 8px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-l-xl",
+    "property": "border-top-left-radius: 24px; border-bottom-left-radius: 24px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-l-pill",
+    "property": "border-top-left-radius: 9999px; border-bottom-left-radius: 9999px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-l-circle",
+    "property": "border-top-left-radius: 50%; border-bottom-left-radius: 50%;",
+    "category": "Border radius"
+  },
+
+  {
+    "class": "rounded-r-0",
+    "property": "border-top-right-radius: 0; border-bottom-right-radius: 0;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-r-lg",
+    "property": "border-top-right-radius: 8px; border-bottom-right-radius: 8px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-r-xl",
+    "property": "border-top-right-radius: 24px; border-bottom-right-radius: 24px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-r-pill",
+    "property": "border-top-right-radius: 9999px; border-bottom-right-radius: 9999px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-r-circle",
+    "property": "border-top-right-radius: 50%; border-bottom-right-radius: 50%;",
+    "category": "Border radius"
+  },
+
+  {
+    "class": "rounded-t-0",
+    "property": "border-top-left-radius: 0; border-top-right-radius: 0;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-t-lg",
+    "property": "border-top-left-radius: 8px; border-top-right-radius: 8px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-t-xl",
+    "property": "border-top-left-radius: 24px; border-top-right-radius: 24px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-t-pill",
+    "property": "border-top-left-radius: 9999px; border-top-right-radius: 9999px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-t-circle",
+    "property": "border-top-left-radius: 50%; border-top-right-radius: 50%;",
+    "category": "Border radius"
+  },
+
+  {
+    "class": "rounded-b-0",
+    "property": "border-bottom-left-radius: 0; border-bottom-right-radius: 0;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-b-lg",
+    "property": "border-bottom-left-radius: 8px; border-bottom-right-radius: 8px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-b-xl",
+    "property": "border-bottom-left-radius: 24px; border-bottom-right-radius: 24px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-b-pill",
+    "property": "border-bottom-left-radius: 9999px; border-bottom-right-radius: 9999px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-b-circle",
+    "property": "border-bottom-left-radius: 50%; border-bottom-right-radius: 50%;",
+    "category": "Border radius"
+  },
+
+  {
+    "class": "rounded-tl-0",
+    "property": "border-top-left-radius: 0;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-tl-lg",
+    "property": "border-top-left-radius: 8px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-tl-xl",
+    "property": "border-top-left-radius: 24px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-tl-pill",
+    "property": "border-top-left-radius: 9999px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-tl-circle",
+    "property": "border-top-left-radius: 50%;",
+    "category": "Border radius"
+  },
+
+  {
+    "class": "rounded-tl-0",
+    "property": "border-top-right-radius: 0;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-tr-lg",
+    "property": "border-top-right-radius: 8px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-tl-xl",
+    "property": "border-top-right-radius: 24px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-tl-pill",
+    "property": "border-top-right-radius: 9999px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-tl-circle",
+    "property": "border-top-right-radius: 50%;",
+    "category": "Border radius"
+  },
+
+  {
+    "class": "rounded-br-0",
+    "property": "border-bottom-right-radius: 0;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-br-lg",
+    "property": "border-bottom-right-radius: 8px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-br-xl",
+    "property": "border-bottom-right-radius: 24px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-br-pill",
+    "property": "border-bottom-right-radius: 9999px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-br-circle",
+    "property": "border-bottom-right-radius: 50%;",
+    "category": "Border radius"
+  },
+
+  {
+    "class": "rounded-bl-0",
+    "property": "border-bottom-left-radius: 0;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-bl-lg",
+    "property": "border-bottom-left-radius: 8px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-bl-xl",
+    "property": "border-bottom-left-radius: 24px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-bl-pill",
+    "property": "border-bottom-left-radius: 9999px;",
+    "category": "Border radius"
+  },
+  {
+    "class": "rounded-bl-circle",
+    "property": "border-bottom-left-radius: 50%;",
+    "category": "Border radius"
+  }
+]
