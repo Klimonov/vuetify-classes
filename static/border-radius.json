@@ -37,105 +37,105 @@
 
   {
     "class": "rounded-l-0",
-    "property": "border-top-left-radius: 0; border-bottom-left-radius: 0;",
+    "property": "border-top-left-radius: 0;\nborder-bottom-left-radius: 0;",
     "category": "Border radius"
   },
   {
     "class": "rounded-l-lg",
-    "property": "border-top-left-radius: 8px; border-bottom-left-radius: 8px;",
+    "property": "border-top-left-radius: 8px;\nborder-bottom-left-radius: 8px;",
     "category": "Border radius"
   },
   {
     "class": "rounded-l-xl",
-    "property": "border-top-left-radius: 24px; border-bottom-left-radius: 24px;",
+    "property": "border-top-left-radius: 24px;\nborder-bottom-left-radius: 24px;",
     "category": "Border radius"
   },
   {
     "class": "rounded-l-pill",
-    "property": "border-top-left-radius: 9999px; border-bottom-left-radius: 9999px;",
+    "property": "border-top-left-radius: 9999px;\nborder-bottom-left-radius: 9999px;",
     "category": "Border radius"
   },
   {
     "class": "rounded-l-circle",
-    "property": "border-top-left-radius: 50%; border-bottom-left-radius: 50%;",
+    "property": "border-top-left-radius: 50%;\nborder-bottom-left-radius: 50%;",
     "category": "Border radius"
   },
 
   {
     "class": "rounded-r-0",
-    "property": "border-top-right-radius: 0; border-bottom-right-radius: 0;",
+    "property": "border-top-right-radius: 0;\nborder-bottom-right-radius: 0;",
     "category": "Border radius"
   },
   {
     "class": "rounded-r-lg",
-    "property": "border-top-right-radius: 8px; border-bottom-right-radius: 8px;",
+    "property": "border-top-right-radius: 8px;\nborder-bottom-right-radius: 8px;",
     "category": "Border radius"
   },
   {
     "class": "rounded-r-xl",
-    "property": "border-top-right-radius: 24px; border-bottom-right-radius: 24px;",
+    "property": "border-top-right-radius: 24px;\nborder-bottom-right-radius: 24px;",
     "category": "Border radius"
   },
   {
     "class": "rounded-r-pill",
-    "property": "border-top-right-radius: 9999px; border-bottom-right-radius: 9999px;",
+    "property": "border-top-right-radius: 9999px;\nborder-bottom-right-radius: 9999px;",
     "category": "Border radius"
   },
   {
     "class": "rounded-r-circle",
-    "property": "border-top-right-radius: 50%; border-bottom-right-radius: 50%;",
+    "property": "border-top-right-radius: 50%;\nborder-bottom-right-radius: 50%;",
     "category": "Border radius"
   },
 
   {
     "class": "rounded-t-0",
-    "property": "border-top-left-radius: 0; border-top-right-radius: 0;",
+    "property": "border-top-left-radius: 0;\nborder-top-right-radius: 0;",
     "category": "Border radius"
   },
   {
     "class": "rounded-t-lg",
-    "property": "border-top-left-radius: 8px; border-top-right-radius: 8px;",
+    "property": "border-top-left-radius: 8px;\nborder-top-right-radius: 8px;",
     "category": "Border radius"
   },
   {
     "class": "rounded-t-xl",
-    "property": "border-top-left-radius: 24px; border-top-right-radius: 24px;",
+    "property": "border-top-left-radius: 24px;\nborder-top-right-radius: 24px;",
     "category": "Border radius"
   },
   {
     "class": "rounded-t-pill",
-    "property": "border-top-left-radius: 9999px; border-top-right-radius: 9999px;",
+    "property": "border-top-left-radius: 9999px;\nborder-top-right-radius: 9999px;",
     "category": "Border radius"
   },
   {
     "class": "rounded-t-circle",
-    "property": "border-top-left-radius: 50%; border-top-right-radius: 50%;",
+    "property": "border-top-left-radius: 50%;\nborder-top-right-radius: 50%;",
     "category": "Border radius"
   },
 
   {
     "class": "rounded-b-0",
-    "property": "border-bottom-left-radius: 0; border-bottom-right-radius: 0;",
+    "property": "border-bottom-left-radius: 0;\nborder-bottom-right-radius: 0;",
     "category": "Border radius"
   },
   {
     "class": "rounded-b-lg",
-    "property": "border-bottom-left-radius: 8px; border-bottom-right-radius: 8px;",
+    "property": "border-bottom-left-radius: 8px;\nborder-bottom-right-radius: 8px;",
     "category": "Border radius"
   },
   {
     "class": "rounded-b-xl",
-    "property": "border-bottom-left-radius: 24px; border-bottom-right-radius: 24px;",
+    "property": "border-bottom-left-radius: 24px;\nborder-bottom-right-radius: 24px;",
     "category": "Border radius"
   },
   {
     "class": "rounded-b-pill",
-    "property": "border-bottom-left-radius: 9999px; border-bottom-right-radius: 9999px;",
+    "property": "border-bottom-left-radius: 9999px;\nborder-bottom-right-radius: 9999px;",
     "category": "Border radius"
   },
   {
     "class": "rounded-b-circle",
-    "property": "border-bottom-left-radius: 50%; border-bottom-right-radius: 50%;",
+    "property": "border-bottom-left-radius: 50%;\nborder-bottom-right-radius: 50%;",
     "category": "Border radius"
   },
 
