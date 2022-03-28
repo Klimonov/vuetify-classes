@@ -68,6 +68,7 @@ export default {
   tr
     td
       color: #574ee6
+      white-space: pre-line
     td:first-child
       color: #10a5e9
 </style>
