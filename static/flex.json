@@ -1,0 +1,1102 @@
+[
+  {
+    "class": "d-flex",
+    "property": "display: flex;",
+    "category": "Flex"
+  },
+  {
+    "class": "d-inline-flex",
+    "property": "display: inline-flex;",
+    "category": "Flex"
+  },
+  {
+    "class": "d-sm-flex",
+    "property": "@media (min-width: 600px) { display: flex; }",
+    "category": "Flex"
+  },
+  {
+    "class": "d-sm-inline-flex",
+    "property": "@media (min-width: 600px) { display: inline-flex; }",
+    "category": "Flex"
+  },
+  {
+    "class": "d-md-flex",
+    "property": "@media (min-width: 960px) { display: flex; }",
+    "category": "Flex"
+  },
+  {
+    "class": "d-md-inline-flex",
+    "property": "@media (min-width: 960px) { display: inline-flex; }",
+    "category": "Flex"
+  },
+  {
+    "class": "d-lg-flex",
+    "property": "@media (min-width: 1264px) { display: flex; }",
+    "category": "Flex"
+  },
+  {
+    "class": "d-lg-inline-flex",
+    "property": "@media (min-width: 1264px) { display: inline-flex; }",
+    "category": "Flex"
+  },
+  {
+    "class": "d-xl-flex",
+    "property": "@media (min-width: 1904px) { display: flex; }",
+    "category": "Flex"
+  },
+  {
+    "class": "d-xl-inline-flex,",
+    "property": "@media (min-width: 1904px) { display: inline-flex; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-row",
+    "property": "flex-direction: row;",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-row-reverse",
+    "property": "flex-direction: row-reverse;",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-column",
+    "property": "flex-direction: column;",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-column-reverse",
+    "property": "flex-direction: column-reverse;",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-sm-row",
+    "property": "@media (min-width: 600px) { flex-direction: row; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-sm-row-reverse",
+    "property": "@media (min-width: 600px) { flex-direction: row-reverse; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-sm-column",
+    "property": "@media (min-width: 600px) { flex-direction: column; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-sm-column-reverse",
+    "property": "@media (min-width: 600px) { flex-direction: column-reverse; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-md-row",
+    "property": "@media (min-width: 960px) { flex-direction: row; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-md-row-reverse",
+    "property": "@media (min-width: 960px) { flex-direction: row-reverse; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-md-column",
+    "property": "@media (min-width: 960px) { flex-direction: column; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-md-column-reverse",
+    "property": "@media (min-width: 960px) { flex-direction: column-reverse; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-lg-row",
+    "property": "@media (min-width: 1264px) { flex-direction: row; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-lg-row-reverse",
+    "property": "@media (min-width: 1264px) { flex-direction: row-reverse; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-lg-column",
+    "property": "@media (min-width: 1264px) { flex-direction: column; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-lg-column-reverse",
+    "property": "@media (min-width: 1264px) { flex-direction: column-reverse; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-xl-row",
+    "property": "@media (min-width: 1904px) { flex-direction: row; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-xl-row-reverse",
+    "property": "@media (min-width: 1904px) { flex-direction: row-reverse; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-xl-column",
+    "property": "@media (min-width: 1904px) { flex-direction: column; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-xl-column-reverse,",
+    "property": "@media (min-width: 1904px) { flex-direction: column-reverse; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-start",
+    "property": "justify-content: flex-start;",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-end",
+    "property": "justify-content: flex-end;",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-center",
+    "property": "justify-content: flex-center;",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-space-between",
+    "property": "justify-content: space-between;",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-space-around",
+    "property": "justify-content: space-around;",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-sm-start",
+    "property": "@media (min-width: 600px) { justify-content: flex-start; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-sm-end",
+    "property": "@media (min-width: 600px) { justify-content: flex-end; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-sm-center",
+    "property": "@media (min-width: 600px) { justify-content: flex-center; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-sm-space-between",
+    "property": "@media (min-width: 600px) { justify-content: space-between; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-sm-space-around",
+    "property": "@media (min-width: 600px) { justify-content: space-around; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-md-start",
+    "property": "@media (min-width: 960px) { justify-content: flex-start; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-md-end",
+    "property": "@media (min-width: 960px) { justify-content: flex-end; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-md-center",
+    "property": "@media (min-width: 960px) { justify-content: flex-center; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-md-space-between",
+    "property": "@media (min-width: 960px) { justify-content: space-between; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-md-space-around",
+    "property": "@media (min-width: 960px) { justify-content: space-around; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-lg-start",
+    "property": "@media (min-width: 1264px) { justify-content: flex-start; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-lg-end",
+    "property": "@media (min-width: 1264px) { justify-content: flex-end; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-lg-center",
+    "property": "@media (min-width: 1264px) { justify-content: flex-center; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-lg-space-between",
+    "property": "@media (min-width: 1264px) { justify-content: space-between; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-lg-space-around",
+    "property": "@media (min-width: 1264px) { justify-content: space-around; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-xl-start",
+    "property": "@media (min-width: 1904px) { justify-content: flex-start; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-xl-end",
+    "property": "@media (min-width: 1904px) { justify-content: flex-end; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-xl-center",
+    "property": "@media (min-width: 1904px) { justify-content: flex-center; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-xl-space-between",
+    "property": "@media (min-width: 1904px) { justify-content: space-between; }",
+    "category": "Flex"
+  },
+  {
+    "class": "justify-xl-space-around,",
+    "property": "@media (min-width: 1904px) { justify-content: space-around; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-start",
+    "property": "align-items: flex-start;",
+    "category": "Flex"
+  },
+  {
+    "class": "align-end",
+    "property": "align-items: flex-end;",
+    "category": "Flex"
+  },
+  {
+    "class": "align-center",
+    "property": "align-items: center;",
+    "category": "Flex"
+  },
+  {
+    "class": "align-baseline",
+    "property": "align-items: baseline;",
+    "category": "Flex"
+  },
+  {
+    "class": "align-stretch",
+    "property": "align-items: stretch;",
+    "category": "Flex"
+  },
+  {
+    "class": "align-sm-start",
+    "property": "@media (min-width: 600px) { align-items: flex-start; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-sm-end",
+    "property": "@media (min-width: 600px) { align-items: flex-end; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-sm-center",
+    "property": "@media (min-width: 600px) { align-items: center; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-sm-baseline",
+    "property": "@media (min-width: 600px) { align-items: baseline; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-sm-stretch",
+    "property": "@media (min-width: 600px) { align-items: stretch; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-md-start",
+    "property": "@media (min-width: 960px) { align-items: flex-start; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-md-end",
+    "property": "@media (min-width: 960px) { align-items: flex-end; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-md-center",
+    "property": "@media (min-width: 960px) { align-items: center; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-md-baseline",
+    "property": "@media (min-width: 960px) { align-items: baseline; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-md-stretch",
+    "property": "@media (min-width: 960px) { align-items: stretch; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-lg-start",
+    "property": "@media (min-width: 1264px) { align-items: flex-start; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-lg-end",
+    "property": "@media (min-width: 1264px) { align-items: flex-end; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-lg-center",
+    "property": "@media (min-width: 1264px) { align-items: center; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-lg-baseline",
+    "property": "@media (min-width: 1264px) { align-items: baseline; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-lg-stretch",
+    "property": "@media (min-width: 1264px) { align-items: stretch; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-xl-start",
+    "property": "@media (min-width: 1904px) { align-items: flex-start; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-xl-end",
+    "property": "@media (min-width: 1904px) { align-items: flex-end; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-xl-center",
+    "property": "@media (min-width: 1904px) { align-items: center; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-xl-baseline",
+    "property": "@media (min-width: 1904px) { align-items: baseline; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-xl-stretch,",
+    "property": "@media (min-width: 1904px) { align-items: stretch; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-start",
+    "property": "align-self: flex-start;",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-end",
+    "property": "align-self: flex-end;",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-center",
+    "property": "align-self: flex-center;",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-baseline",
+    "property": "align-self: flex-baseline;",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-auto",
+    "property": "align-self: auto;",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-stretch",
+    "property": "align-self: stretch;",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-sm-start",
+    "property": "@media (min-width: 600px) { align-self: flex-start; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-sm-end",
+    "property": "@media (min-width: 600px) { align-self: flex-end; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-sm-center",
+    "property": "@media (min-width: 600px) { align-self: flex-center; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-sm-baseline",
+    "property": "@media (min-width: 600px) { align-self: flex-baseline; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-sm-auto",
+    "property": "@media (min-width: 600px) { align-self: auto; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-sm-stretch",
+    "property": "@media (min-width: 600px) { align-self: stretch }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-md-start",
+    "property": "@media (min-width: 960px) { align-self: flex-start; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-md-end",
+    "property": "@media (min-width: 960px) { align-self: flex-end; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-md-center",
+    "property": "@media (min-width: 960px) { align-self: flex-center; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-md-baseline",
+    "property": "@media (min-width: 960px) { align-self: flex-baseline; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-md-auto",
+    "property": "@media (min-width: 960px) { align-self: auto; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-md-stretch",
+    "property": "@media (min-width: 960px) { align-self: stretch }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-lg-start",
+    "property": "@media (min-width: 1264px) { align-self: flex-start; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-lg-end",
+    "property": "@media (min-width: 1264px) { align-self: flex-end; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-lg-center",
+    "property": "@media (min-width: 1264px) { align-self: flex-center; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-lg-baseline",
+    "property": "@media (min-width: 1264px) { align-self: flex-baseline; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-lg-auto",
+    "property": "@media (min-width: 1264px) { align-self: auto; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-lg-stretch",
+    "property": "@media (min-width: 1264px) { align-self: stretch }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-xl-start",
+    "property": "@media (min-width: 1904px) { align-self: flex-start; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-xl-end",
+    "property": "@media (min-width: 1904px) { align-self: flex-end; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-xl-center",
+    "property": "@media (min-width: 1904px) { align-self: flex-center; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-xl-baseline",
+    "property": "@media (min-width: 1904px) { align-self: flex-baseline; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-xl-auto",
+    "property": "@media (min-width: 1904px) { align-self: auto; }",
+    "category": "Flex"
+  },
+  {
+    "class": "align-self-xl-stretch,",
+    "property": "@media (min-width: 1904px) { align-self: stretch }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-nowrap",
+    "property": "flex-wrap: nowrap;",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-wrap",
+    "property": "flex-wrap: wrap;",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-wrap-reverse,",
+    "property": "flex-wrap: wrap-reverse;",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-sm-nowrap",
+    "property": "@media (min-width: 600px) { flex-wrap: nowrap; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-sm-wrap",
+    "property": "@media (min-width: 600px) { flex-wrap: wrap; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-sm-wrap-reverse",
+    "property": "@media (min-width: 600px) { flex-wrap: wrap-reverse; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-md-nowrap",
+    "property": "@media (min-width: 960px) { flex-wrap: nowrap; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-md-wrap",
+    "property": "@media (min-width: 960px) { flex-wrap: wrap; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-md-wrap-reverse",
+    "property": "@media (min-width: 960px) { flex-wrap: wrap-reverse; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-lg-nowrap",
+    "property": "@media (min-width: 1264px) { flex-wrap: nowrap; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-lg-wrap",
+    "property": "@media (min-width: 1264px) { flex-wrap: wrap; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-lg-wrap-reverse",
+    "property": "@media (min-width: 1264px) { flex-wrap: wrap-reverse; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-xl-nowrap",
+    "property": "@media (min-width: 1904px) { flex-wrap: nowrap; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-xl-wrap",
+    "property": "@media (min-width: 1904px) { flex-wrap: wrap; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-xl-wrap-reverse,",
+    "property": "@media (min-width: 1904px) { flex-wrap: wrap-reverse; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-first",
+    "property": "order: -1;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-0",
+    "property": "order: 0;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-1",
+    "property": "order: 1;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-2",
+    "property": "order: 2;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-3",
+    "property": "order: 3;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-4",
+    "property": "order: 4;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-5",
+    "property": "order: 5;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-6",
+    "property": "order: 6;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-7",
+    "property": "order: 7;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-8",
+    "property": "order: 8;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-9",
+    "property": "order: 9;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-10",
+    "property": "order: 10;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-11",
+    "property": "order: 11;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-12",
+    "property": "order: 12;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-last",
+    "property": "order: 13;",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-first",
+    "property": "@media (min-width: 600px) { order: -1; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-0",
+    "property": "@media (min-width: 600px) { order: 0; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-1",
+    "property": "@media (min-width: 600px) { order: 1; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-2",
+    "property": "@media (min-width: 600px) { order: 2; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-3",
+    "property": "@media (min-width: 600px) { order: 3; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-4",
+    "property": "@media (min-width: 600px) { order: 4; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-5",
+    "property": "@media (min-width: 600px) { order: 5; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-6",
+    "property": "@media (min-width: 600px) { order: 6; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-7",
+    "property": "@media (min-width: 600px) { order: 7; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-8",
+    "property": "@media (min-width: 600px) { order: 8; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-9",
+    "property": "@media (min-width: 600px) { order: 9; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-10",
+    "property": "@media (min-width: 600px) { order: 10; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-11",
+    "property": "@media (min-width: 600px) { order: 11; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-12",
+    "property": "@media (min-width: 600px) { order: 12; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-sm-last",
+    "property": "@media (min-width: 600px) { order: 13; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-first",
+    "property": "@media (min-width: 960px) { order: -1; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-0",
+    "property": "@media (min-width: 960px) { order: 0; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-1",
+    "property": "@media (min-width: 960px) { order: 1; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-2",
+    "property": "@media (min-width: 960px) { order: 2; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-3",
+    "property": "@media (min-width: 960px) { order: 3; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-4",
+    "property": "@media (min-width: 960px) { order: 4; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-5",
+    "property": "@media (min-width: 960px) { order: 5; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-6",
+    "property": "@media (min-width: 960px) { order: 6; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-7",
+    "property": "@media (min-width: 960px) { order: 7; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-8",
+    "property": "@media (min-width: 960px) { order: 8; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-9",
+    "property": "@media (min-width: 960px) { order: 9; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-10",
+    "property": "@media (min-width: 960px) { order: 10; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-11",
+    "property": "@media (min-width: 960px) { order: 11; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-12",
+    "property": "@media (min-width: 960px) { order: 12; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-md-last",
+    "property": "@media (min-width: 960px) { order: 13; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-first",
+    "property": "@media (min-width: 1264px) { order: -1; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-0",
+    "property": "@media (min-width: 1264px) { order: 0; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-1",
+    "property": "@media (min-width: 1264px) { order: 1; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-2",
+    "property": "@media (min-width: 1264px) { order: 2; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-3",
+    "property": "@media (min-width: 1264px) { order: 3; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-4",
+    "property": "@media (min-width: 1264px) { order: 4; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-5",
+    "property": "@media (min-width: 1264px) { order: 5; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-6",
+    "property": "@media (min-width: 1264px) { order: 6; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-7",
+    "property": "@media (min-width: 1264px) { order: 7; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-8",
+    "property": "@media (min-width: 1264px) { order: 8; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-9",
+    "property": "@media (min-width: 1264px) { order: 9; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-10",
+    "property": "@media (min-width: 1264px) { order: 10; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-11",
+    "property": "@media (min-width: 1264px) { order: 11; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-12",
+    "property": "@media (min-width: 1264px) { order: 12; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-last",
+    "property": "@media (min-width: 1264px) { order: 13; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-lg-first",
+    "property": "@media (min-width: 1264px) { order: -1; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-0",
+    "property": "@media (min-width: 1904px) { order: 0; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-1",
+    "property": "@media (min-width: 1904px) { order: 1; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-2",
+    "property": "@media (min-width: 1904px) { order: 2; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-3",
+    "property": "@media (min-width: 1904px) { order: 3; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-4",
+    "property": "@media (min-width: 1904px) { order: 4; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-5",
+    "property": "@media (min-width: 1904px) { order: 5; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-6",
+    "property": "@media (min-width: 1904px) { order: 6; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-7",
+    "property": "@media (min-width: 1904px) { order: 7; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-8",
+    "property": "@media (min-width: 1904px) { order: 8; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-9",
+    "property": "@media (min-width: 1904px) { order: 9; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-10",
+    "property": "@media (min-width: 1904px) { order: 10; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-11",
+    "property": "@media (min-width: 1904px) { order: 11; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-12",
+    "property": "@media (min-width: 1904px) { order: 12; }",
+    "category": "Flex"
+  },
+  {
+    "class": "order-xl-last,",
+    "property": "@media (min-width: 1904px) { order: 13; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-grow-0",
+    "property": "flex-grow: 0;",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-grow-1",
+    "property": "flex-grow: 1;",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-shrink-0",
+    "property": "flex-shrink: 0",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-shrink-1,",
+    "property": "flex-shrink: 1",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-sm-grow-0",
+    "property": "@media (min-width: 600px) { flex-grow: 0; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-md-grow-0",
+    "property": "@media (min-width: 960px) { flex-grow: 0; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-lg-grow-0",
+    "property": "@media (min-width: 1264px) { flex-grow: 0; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-xl-grow-0",
+    "property": "@media (min-width: 1904px) { flex-grow: 0; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-sm-grow-1",
+    "property": "@media (min-width: 600px) { flex-grow: 1; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-md-grow-1",
+    "property": "@media (min-width: 960px) { flex-grow: 1; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-lg-grow-1",
+    "property": "@media (min-width: 1264px) { flex-grow: 1; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-xl-grow-1",
+    "property": "@media (min-width: 1904px) { flex-grow: 1; }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-sm-shrink-0",
+    "property": "@media (min-width: 600px) { flex-shrink: 0 }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-md-shrink-0",
+    "property": "@media (min-width: 960px) { flex-shrink: 0 }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-lg-shrink-0",
+    "property": "@media (min-width: 1264px) { flex-shrink: 0 }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-xl-shrink-0",
+    "property": "@media (min-width: 1904px) { flex-shrink: 0 }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-sm-shrink-1",
+    "property": "@media (min-width: 600px) { flex-shrink: 1 }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-md-shrink-1",
+    "property": "@media (min-width: 960px) { flex-shrink: 1 }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-lg-shrink-1",
+    "property": "@media (min-width: 1264px) { flex-shrink: 1 }",
+    "category": "Flex"
+  },
+  {
+    "class": "flex-xl-shrink-1,",
+    "property": "@media (min-width: 1904px) { flex-shrink: 1 }",
+    "category": "Flex"
+  }
+]
