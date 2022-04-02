@@ -6100,4 +6100,6105 @@
     "property": "@media (min-width: 1904px) { margin-top: -64px; margin-bottom: -64px; }",
     "category": "Spacing"
   },
+  {
+    "class": "pa-0",
+    "property": "padding: 0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-0",
+    "property": "@media (min-width: 600px) { padding: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-0",
+    "property": "@media (min-width: 960px) { padding: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-0",
+    "property": "@media (min-width: 1264px) { padding: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-0",
+    "property": "@media (min-width: 1904px) { padding: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n1",
+    "property": "padding: 4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n1",
+    "property": "@media (min-width: 600px) { padding: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n1",
+    "property": "@media (min-width: 960px) { padding: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n1",
+    "property": "@media (min-width: 1264px) { padding: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n1",
+    "property": "@media (min-width: 1904px) { padding: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n2",
+    "property": "padding: 8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n2",
+    "property": "@media (min-width: 600px) { padding: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n2",
+    "property": "@media (min-width: 960px) { padding: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n2",
+    "property": "@media (min-width: 1264px) { padding: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n2",
+    "property": "@media (min-width: 1904px) { padding: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n3",
+    "property": "padding: 12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n3",
+    "property": "@media (min-width: 600px) { padding: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n3",
+    "property": "@media (min-width: 960px) { padding: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n3",
+    "property": "@media (min-width: 1264px) { padding: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n3",
+    "property": "@media (min-width: 1904px) { padding: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n4",
+    "property": "padding: 16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n4",
+    "property": "@media (min-width: 600px) { padding: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n4",
+    "property": "@media (min-width: 960px) { padding: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n4",
+    "property": "@media (min-width: 1264px) { padding: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n4",
+    "property": "@media (min-width: 1904px) { padding: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n5",
+    "property": "padding: 20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n5",
+    "property": "@media (min-width: 600px) { padding: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n5",
+    "property": "@media (min-width: 960px) { padding: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n5",
+    "property": "@media (min-width: 1264px) { padding: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n5",
+    "property": "@media (min-width: 1904px) { padding: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n6",
+    "property": "padding: 24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n6",
+    "property": "@media (min-width: 600px) { padding: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n6",
+    "property": "@media (min-width: 960px) { padding: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n6",
+    "property": "@media (min-width: 1264px) { padding: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n6",
+    "property": "@media (min-width: 1904px) { padding: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n7",
+    "property": "padding: 28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n7",
+    "property": "@media (min-width: 600px) { padding: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n7",
+    "property": "@media (min-width: 960px) { padding: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n7",
+    "property": "@media (min-width: 1264px) { padding: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n7",
+    "property": "@media (min-width: 1904px) { padding: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n8",
+    "property": "padding: 32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n8",
+    "property": "@media (min-width: 600px) { padding: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n8",
+    "property": "@media (min-width: 960px) { padding: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n8",
+    "property": "@media (min-width: 1264px) { padding: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n8",
+    "property": "@media (min-width: 1904px) { padding: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n9",
+    "property": "padding: 36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n9",
+    "property": "@media (min-width: 600px) { padding: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n9",
+    "property": "@media (min-width: 960px) { padding: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n9",
+    "property": "@media (min-width: 1264px) { padding: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n9",
+    "property": "@media (min-width: 1904px) { padding: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n10",
+    "property": "padding: 40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n10",
+    "property": "@media (min-width: 600px) { padding: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n10",
+    "property": "@media (min-width: 960px) { padding: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n10",
+    "property": "@media (min-width: 1264px) { padding: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n10",
+    "property": "@media (min-width: 1904px) { padding: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n11",
+    "property": "padding: 44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n11",
+    "property": "@media (min-width: 600px) { padding: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n11",
+    "property": "@media (min-width: 960px) { padding: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n11",
+    "property": "@media (min-width: 1264px) { padding: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n11",
+    "property": "@media (min-width: 1904px) { padding: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n12",
+    "property": "padding: 48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n12",
+    "property": "@media (min-width: 600px) { padding: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n12",
+    "property": "@media (min-width: 960px) { padding: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n12",
+    "property": "@media (min-width: 1264px) { padding: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n12",
+    "property": "@media (min-width: 1904px) { padding: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n13",
+    "property": "padding: 52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n13",
+    "property": "@media (min-width: 600px) { padding: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n13",
+    "property": "@media (min-width: 960px) { padding: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n13",
+    "property": "@media (min-width: 1264px) { padding: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n13",
+    "property": "@media (min-width: 1904px) { padding: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n14",
+    "property": "padding: 56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n14",
+    "property": "@media (min-width: 600px) { padding: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n14",
+    "property": "@media (min-width: 960px) { padding: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n14",
+    "property": "@media (min-width: 1264px) { padding: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n14",
+    "property": "@media (min-width: 1904px) { padding: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n15",
+    "property": "padding: 60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n15",
+    "property": "@media (min-width: 600px) { padding: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n15",
+    "property": "@media (min-width: 960px) { padding: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n15",
+    "property": "@media (min-width: 1264px) { padding: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n15",
+    "property": "@media (min-width: 1904px) { padding: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n16",
+    "property": "padding: 64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n16",
+    "property": "@media (min-width: 600px) { padding: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n16",
+    "property": "@media (min-width: 960px) { padding: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n16",
+    "property": "@media (min-width: 1264px) { padding: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n16",
+    "property": "@media (min-width: 1904px) { padding: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-auto",
+    "property": "padding: auto;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-auto",
+    "property": "@media (min-width: 600px) { padding: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-auto",
+    "property": "@media (min-width: 960px) { padding: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-auto",
+    "property": "@media (min-width: 1264px) { padding: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-auto",
+    "property": "@media (min-width: 1904px) { padding: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-0",
+    "property": "padding-top: 0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-0",
+    "property": "@media (min-width: 600px) { padding-top: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-0",
+    "property": "@media (min-width: 960px) { padding-top: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-0",
+    "property": "@media (min-width: 1264px) { padding-top: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-0",
+    "property": "@media (min-width: 1904px) { padding-top: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n1",
+    "property": "padding-top: 4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n1",
+    "property": "@media (min-width: 600px) { padding-top: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n1",
+    "property": "@media (min-width: 960px) { padding-top: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n1",
+    "property": "@media (min-width: 1264px) { padding-top: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n1",
+    "property": "@media (min-width: 1904px) { padding-top: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n2",
+    "property": "padding-top: 8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n2",
+    "property": "@media (min-width: 600px) { padding-top: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n2",
+    "property": "@media (min-width: 960px) { padding-top: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n2",
+    "property": "@media (min-width: 1264px) { padding-top: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n2",
+    "property": "@media (min-width: 1904px) { padding-top: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n3",
+    "property": "padding-top: 12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n3",
+    "property": "@media (min-width: 600px) { padding-top: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n3",
+    "property": "@media (min-width: 960px) { padding-top: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n3",
+    "property": "@media (min-width: 1264px) { padding-top: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n3",
+    "property": "@media (min-width: 1904px) { padding-top: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n4",
+    "property": "padding-top: 16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n4",
+    "property": "@media (min-width: 600px) { padding-top: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n4",
+    "property": "@media (min-width: 960px) { padding-top: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n4",
+    "property": "@media (min-width: 1264px) { padding-top: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n4",
+    "property": "@media (min-width: 1904px) { padding-top: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n5",
+    "property": "padding-top: 20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n5",
+    "property": "@media (min-width: 600px) { padding-top: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n5",
+    "property": "@media (min-width: 960px) { padding-top: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n5",
+    "property": "@media (min-width: 1264px) { padding-top: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n5",
+    "property": "@media (min-width: 1904px) { padding-top: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n6",
+    "property": "padding-top: 24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n6",
+    "property": "@media (min-width: 600px) { padding-top: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n6",
+    "property": "@media (min-width: 960px) { padding-top: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n6",
+    "property": "@media (min-width: 1264px) { padding-top: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n6",
+    "property": "@media (min-width: 1904px) { padding-top: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n7",
+    "property": "padding-top: 28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n7",
+    "property": "@media (min-width: 600px) { padding-top: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n7",
+    "property": "@media (min-width: 960px) { padding-top: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n7",
+    "property": "@media (min-width: 1264px) { padding-top: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n7",
+    "property": "@media (min-width: 1904px) { padding-top: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n8",
+    "property": "padding-top: 32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n8",
+    "property": "@media (min-width: 600px) { padding-top: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n8",
+    "property": "@media (min-width: 960px) { padding-top: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n8",
+    "property": "@media (min-width: 1264px) { padding-top: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n8",
+    "property": "@media (min-width: 1904px) { padding-top: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n9",
+    "property": "padding-top: 36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n9",
+    "property": "@media (min-width: 600px) { padding-top: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n9",
+    "property": "@media (min-width: 960px) { padding-top: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n9",
+    "property": "@media (min-width: 1264px) { padding-top: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n9",
+    "property": "@media (min-width: 1904px) { padding-top: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n10",
+    "property": "padding-top: 40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n10",
+    "property": "@media (min-width: 600px) { padding-top: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n10",
+    "property": "@media (min-width: 960px) { padding-top: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n10",
+    "property": "@media (min-width: 1264px) { padding-top: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n10",
+    "property": "@media (min-width: 1904px) { padding-top: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n11",
+    "property": "padding-top: 44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n11",
+    "property": "@media (min-width: 600px) { padding-top: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n11",
+    "property": "@media (min-width: 960px) { padding-top: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n11",
+    "property": "@media (min-width: 1264px) { padding-top: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n11",
+    "property": "@media (min-width: 1904px) { padding-top: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n12",
+    "property": "padding-top: 48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n12",
+    "property": "@media (min-width: 600px) { padding-top: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n12",
+    "property": "@media (min-width: 960px) { padding-top: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n12",
+    "property": "@media (min-width: 1264px) { padding-top: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n12",
+    "property": "@media (min-width: 1904px) { padding-top: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n13",
+    "property": "padding-top: 52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n13",
+    "property": "@media (min-width: 600px) { padding-top: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n13",
+    "property": "@media (min-width: 960px) { padding-top: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n13",
+    "property": "@media (min-width: 1264px) { padding-top: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n13",
+    "property": "@media (min-width: 1904px) { padding-top: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n14",
+    "property": "padding-top: 56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n14",
+    "property": "@media (min-width: 600px) { padding-top: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n14",
+    "property": "@media (min-width: 960px) { padding-top: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n14",
+    "property": "@media (min-width: 1264px) { padding-top: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n14",
+    "property": "@media (min-width: 1904px) { padding-top: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n15",
+    "property": "padding-top: 60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n15",
+    "property": "@media (min-width: 600px) { padding-top: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n15",
+    "property": "@media (min-width: 960px) { padding-top: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n15",
+    "property": "@media (min-width: 1264px) { padding-top: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n15",
+    "property": "@media (min-width: 1904px) { padding-top: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n16",
+    "property": "padding-top: 64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n16",
+    "property": "@media (min-width: 600px) { padding-top: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n16",
+    "property": "@media (min-width: 960px) { padding-top: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n16",
+    "property": "@media (min-width: 1264px) { padding-top: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n16",
+    "property": "@media (min-width: 1904px) { padding-top: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-auto",
+    "property": "padding-top: auto;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-auto",
+    "property": "@media (min-width: 600px) { padding-top: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-auto",
+    "property": "@media (min-width: 960px) { padding-top: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-auto",
+    "property": "@media (min-width: 1264px) { padding-top: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-auto",
+    "property": "@media (min-width: 1904px) { padding-top: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-0",
+    "property": "padding-bottom: 0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-0",
+    "property": "@media (min-width: 600px) { padding-bottom: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-0",
+    "property": "@media (min-width: 960px) { padding-bottom: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-0",
+    "property": "@media (min-width: 1264px) { padding-bottom: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-0",
+    "property": "@media (min-width: 1904px) { padding-bottom: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n1",
+    "property": "padding-bottom: 4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n1",
+    "property": "@media (min-width: 600px) { padding-bottom: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n1",
+    "property": "@media (min-width: 960px) { padding-bottom: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n1",
+    "property": "@media (min-width: 1264px) { padding-bottom: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n1",
+    "property": "@media (min-width: 1904px) { padding-bottom: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n2",
+    "property": "padding-bottom: 8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n2",
+    "property": "@media (min-width: 600px) { padding-bottom: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n2",
+    "property": "@media (min-width: 960px) { padding-bottom: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n2",
+    "property": "@media (min-width: 1264px) { padding-bottom: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n2",
+    "property": "@media (min-width: 1904px) { padding-bottom: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n3",
+    "property": "padding-bottom: 12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n3",
+    "property": "@media (min-width: 600px) { padding-bottom: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n3",
+    "property": "@media (min-width: 960px) { padding-bottom: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n3",
+    "property": "@media (min-width: 1264px) { padding-bottom: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n3",
+    "property": "@media (min-width: 1904px) { padding-bottom: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n4",
+    "property": "padding-bottom: 16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n4",
+    "property": "@media (min-width: 600px) { padding-bottom: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n4",
+    "property": "@media (min-width: 960px) { padding-bottom: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n4",
+    "property": "@media (min-width: 1264px) { padding-bottom: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n4",
+    "property": "@media (min-width: 1904px) { padding-bottom: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n5",
+    "property": "padding-bottom: 20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n5",
+    "property": "@media (min-width: 600px) { padding-bottom: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n5",
+    "property": "@media (min-width: 960px) { padding-bottom: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n5",
+    "property": "@media (min-width: 1264px) { padding-bottom: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n5",
+    "property": "@media (min-width: 1904px) { padding-bottom: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n6",
+    "property": "padding-bottom: 24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n6",
+    "property": "@media (min-width: 600px) { padding-bottom: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n6",
+    "property": "@media (min-width: 960px) { padding-bottom: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n6",
+    "property": "@media (min-width: 1264px) { padding-bottom: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n6",
+    "property": "@media (min-width: 1904px) { padding-bottom: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n7",
+    "property": "padding-bottom: 28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n7",
+    "property": "@media (min-width: 600px) { padding-bottom: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n7",
+    "property": "@media (min-width: 960px) { padding-bottom: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n7",
+    "property": "@media (min-width: 1264px) { padding-bottom: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n7",
+    "property": "@media (min-width: 1904px) { padding-bottom: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n8",
+    "property": "padding-bottom: 32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n8",
+    "property": "@media (min-width: 600px) { padding-bottom: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n8",
+    "property": "@media (min-width: 960px) { padding-bottom: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n8",
+    "property": "@media (min-width: 1264px) { padding-bottom: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n8",
+    "property": "@media (min-width: 1904px) { padding-bottom: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n9",
+    "property": "padding-bottom: 36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n9",
+    "property": "@media (min-width: 600px) { padding-bottom: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n9",
+    "property": "@media (min-width: 960px) { padding-bottom: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n9",
+    "property": "@media (min-width: 1264px) { padding-bottom: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n9",
+    "property": "@media (min-width: 1904px) { padding-bottom: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n10",
+    "property": "padding-bottom: 40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n10",
+    "property": "@media (min-width: 600px) { padding-bottom: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n10",
+    "property": "@media (min-width: 960px) { padding-bottom: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n10",
+    "property": "@media (min-width: 1264px) { padding-bottom: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n10",
+    "property": "@media (min-width: 1904px) { padding-bottom: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n11",
+    "property": "padding-bottom: 44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n11",
+    "property": "@media (min-width: 600px) { padding-bottom: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n11",
+    "property": "@media (min-width: 960px) { padding-bottom: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n11",
+    "property": "@media (min-width: 1264px) { padding-bottom: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n11",
+    "property": "@media (min-width: 1904px) { padding-bottom: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n12",
+    "property": "padding-bottom: 48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n12",
+    "property": "@media (min-width: 600px) { padding-bottom: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n12",
+    "property": "@media (min-width: 960px) { padding-bottom: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n12",
+    "property": "@media (min-width: 1264px) { padding-bottom: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n12",
+    "property": "@media (min-width: 1904px) { padding-bottom: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n13",
+    "property": "padding-bottom: 52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n13",
+    "property": "@media (min-width: 600px) { padding-bottom: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n13",
+    "property": "@media (min-width: 960px) { padding-bottom: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n13",
+    "property": "@media (min-width: 1264px) { padding-bottom: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n13",
+    "property": "@media (min-width: 1904px) { padding-bottom: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n14",
+    "property": "padding-bottom: 56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n14",
+    "property": "@media (min-width: 600px) { padding-bottom: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n14",
+    "property": "@media (min-width: 960px) { padding-bottom: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n14",
+    "property": "@media (min-width: 1264px) { padding-bottom: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n14",
+    "property": "@media (min-width: 1904px) { padding-bottom: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n15",
+    "property": "padding-bottom: 60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n15",
+    "property": "@media (min-width: 600px) { padding-bottom: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n15",
+    "property": "@media (min-width: 960px) { padding-bottom: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n15",
+    "property": "@media (min-width: 1264px) { padding-bottom: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n15",
+    "property": "@media (min-width: 1904px) { padding-bottom: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n16",
+    "property": "padding-bottom: 64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n16",
+    "property": "@media (min-width: 600px) { padding-bottom: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n16",
+    "property": "@media (min-width: 960px) { padding-bottom: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n16",
+    "property": "@media (min-width: 1264px) { padding-bottom: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n16",
+    "property": "@media (min-width: 1904px) { padding-bottom: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-auto",
+    "property": "padding-bottom: auto;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-auto",
+    "property": "@media (min-width: 600px) { padding-bottom: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-auto",
+    "property": "@media (min-width: 960px) { padding-bottom: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-auto",
+    "property": "@media (min-width: 1264px) { padding-bottom: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-auto",
+    "property": "@media (min-width: 1904px) { padding-bottom: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-0",
+    "property": "padding-left: 0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-0",
+    "property": "@media (min-width: 600px) { padding-left: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-0",
+    "property": "@media (min-width: 960px) { padding-left: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-0",
+    "property": "@media (min-width: 1264px) { padding-left: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-0",
+    "property": "@media (min-width: 1904px) { padding-left: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n1",
+    "property": "padding-left: 4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n1",
+    "property": "@media (min-width: 600px) { padding-left: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n1",
+    "property": "@media (min-width: 960px) { padding-left: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n1",
+    "property": "@media (min-width: 1264px) { padding-left: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n1",
+    "property": "@media (min-width: 1904px) { padding-left: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n2",
+    "property": "padding-left: 8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n2",
+    "property": "@media (min-width: 600px) { padding-left: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n2",
+    "property": "@media (min-width: 960px) { padding-left: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n2",
+    "property": "@media (min-width: 1264px) { padding-left: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n2",
+    "property": "@media (min-width: 1904px) { padding-left: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n3",
+    "property": "padding-left: 12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n3",
+    "property": "@media (min-width: 600px) { padding-left: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n3",
+    "property": "@media (min-width: 960px) { padding-left: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n3",
+    "property": "@media (min-width: 1264px) { padding-left: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n3",
+    "property": "@media (min-width: 1904px) { padding-left: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n4",
+    "property": "padding-left: 16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n4",
+    "property": "@media (min-width: 600px) { padding-left: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n4",
+    "property": "@media (min-width: 960px) { padding-left: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n4",
+    "property": "@media (min-width: 1264px) { padding-left: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n4",
+    "property": "@media (min-width: 1904px) { padding-left: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n5",
+    "property": "padding-left: 20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n5",
+    "property": "@media (min-width: 600px) { padding-left: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n5",
+    "property": "@media (min-width: 960px) { padding-left: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n5",
+    "property": "@media (min-width: 1264px) { padding-left: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n5",
+    "property": "@media (min-width: 1904px) { padding-left: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n6",
+    "property": "padding-left: 24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n6",
+    "property": "@media (min-width: 600px) { padding-left: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n6",
+    "property": "@media (min-width: 960px) { padding-left: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n6",
+    "property": "@media (min-width: 1264px) { padding-left: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n6",
+    "property": "@media (min-width: 1904px) { padding-left: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n7",
+    "property": "padding-left: 28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n7",
+    "property": "@media (min-width: 600px) { padding-left: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n7",
+    "property": "@media (min-width: 960px) { padding-left: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n7",
+    "property": "@media (min-width: 1264px) { padding-left: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n7",
+    "property": "@media (min-width: 1904px) { padding-left: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n8",
+    "property": "padding-left: 32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n8",
+    "property": "@media (min-width: 600px) { padding-left: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n8",
+    "property": "@media (min-width: 960px) { padding-left: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n8",
+    "property": "@media (min-width: 1264px) { padding-left: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n8",
+    "property": "@media (min-width: 1904px) { padding-left: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n9",
+    "property": "padding-left: 36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n9",
+    "property": "@media (min-width: 600px) { padding-left: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n9",
+    "property": "@media (min-width: 960px) { padding-left: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n9",
+    "property": "@media (min-width: 1264px) { padding-left: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n9",
+    "property": "@media (min-width: 1904px) { padding-left: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n10",
+    "property": "padding-left: 40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n10",
+    "property": "@media (min-width: 600px) { padding-left: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n10",
+    "property": "@media (min-width: 960px) { padding-left: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n10",
+    "property": "@media (min-width: 1264px) { padding-left: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n10",
+    "property": "@media (min-width: 1904px) { padding-left: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n11",
+    "property": "padding-left: 44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n11",
+    "property": "@media (min-width: 600px) { padding-left: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n11",
+    "property": "@media (min-width: 960px) { padding-left: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n11",
+    "property": "@media (min-width: 1264px) { padding-left: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n11",
+    "property": "@media (min-width: 1904px) { padding-left: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n12",
+    "property": "padding-left: 48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n12",
+    "property": "@media (min-width: 600px) { padding-left: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n12",
+    "property": "@media (min-width: 960px) { padding-left: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n12",
+    "property": "@media (min-width: 1264px) { padding-left: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n12",
+    "property": "@media (min-width: 1904px) { padding-left: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n13",
+    "property": "padding-left: 52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n13",
+    "property": "@media (min-width: 600px) { padding-left: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n13",
+    "property": "@media (min-width: 960px) { padding-left: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n13",
+    "property": "@media (min-width: 1264px) { padding-left: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n13",
+    "property": "@media (min-width: 1904px) { padding-left: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n14",
+    "property": "padding-left: 56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n14",
+    "property": "@media (min-width: 600px) { padding-left: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n14",
+    "property": "@media (min-width: 960px) { padding-left: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n14",
+    "property": "@media (min-width: 1264px) { padding-left: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n14",
+    "property": "@media (min-width: 1904px) { padding-left: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n15",
+    "property": "padding-left: 60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n15",
+    "property": "@media (min-width: 600px) { padding-left: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n15",
+    "property": "@media (min-width: 960px) { padding-left: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n15",
+    "property": "@media (min-width: 1264px) { padding-left: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n15",
+    "property": "@media (min-width: 1904px) { padding-left: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n16",
+    "property": "padding-left: 64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n16",
+    "property": "@media (min-width: 600px) { padding-left: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n16",
+    "property": "@media (min-width: 960px) { padding-left: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n16",
+    "property": "@media (min-width: 1264px) { padding-left: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n16",
+    "property": "@media (min-width: 1904px) { padding-left: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-auto",
+    "property": "padding-left: auto;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-auto",
+    "property": "@media (min-width: 600px) { padding-left: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-auto",
+    "property": "@media (min-width: 960px) { padding-left: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-auto",
+    "property": "@media (min-width: 1264px) { padding-left: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-auto",
+    "property": "@media (min-width: 1904px) { padding-left: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-0",
+    "property": "padding-right: 0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-0",
+    "property": "@media (min-width: 600px) { padding-right: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-0",
+    "property": "@media (min-width: 960px) { padding-right: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-0",
+    "property": "@media (min-width: 1264px) { padding-right: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-0",
+    "property": "@media (min-width: 1904px) { padding-right: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n1",
+    "property": "padding-right: 4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n1",
+    "property": "@media (min-width: 600px) { padding-right: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n1",
+    "property": "@media (min-width: 960px) { padding-right: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n1",
+    "property": "@media (min-width: 1264px) { padding-right: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n1",
+    "property": "@media (min-width: 1904px) { padding-right: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n2",
+    "property": "padding-right: 8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n2",
+    "property": "@media (min-width: 600px) { padding-right: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n2",
+    "property": "@media (min-width: 960px) { padding-right: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n2",
+    "property": "@media (min-width: 1264px) { padding-right: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n2",
+    "property": "@media (min-width: 1904px) { padding-right: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n3",
+    "property": "padding-right: 12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n3",
+    "property": "@media (min-width: 600px) { padding-right: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n3",
+    "property": "@media (min-width: 960px) { padding-right: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n3",
+    "property": "@media (min-width: 1264px) { padding-right: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n3",
+    "property": "@media (min-width: 1904px) { padding-right: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n4",
+    "property": "padding-right: 16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n4",
+    "property": "@media (min-width: 600px) { padding-right: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n4",
+    "property": "@media (min-width: 960px) { padding-right: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n4",
+    "property": "@media (min-width: 1264px) { padding-right: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n4",
+    "property": "@media (min-width: 1904px) { padding-right: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n5",
+    "property": "padding-right: 20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n5",
+    "property": "@media (min-width: 600px) { padding-right: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n5",
+    "property": "@media (min-width: 960px) { padding-right: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n5",
+    "property": "@media (min-width: 1264px) { padding-right: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n5",
+    "property": "@media (min-width: 1904px) { padding-right: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n6",
+    "property": "padding-right: 24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n6",
+    "property": "@media (min-width: 600px) { padding-right: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n6",
+    "property": "@media (min-width: 960px) { padding-right: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n6",
+    "property": "@media (min-width: 1264px) { padding-right: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n6",
+    "property": "@media (min-width: 1904px) { padding-right: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n7",
+    "property": "padding-right: 28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n7",
+    "property": "@media (min-width: 600px) { padding-right: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n7",
+    "property": "@media (min-width: 960px) { padding-right: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n7",
+    "property": "@media (min-width: 1264px) { padding-right: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n7",
+    "property": "@media (min-width: 1904px) { padding-right: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n8",
+    "property": "padding-right: 32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n8",
+    "property": "@media (min-width: 600px) { padding-right: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n8",
+    "property": "@media (min-width: 960px) { padding-right: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n8",
+    "property": "@media (min-width: 1264px) { padding-right: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n8",
+    "property": "@media (min-width: 1904px) { padding-right: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n9",
+    "property": "padding-right: 36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n9",
+    "property": "@media (min-width: 600px) { padding-right: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n9",
+    "property": "@media (min-width: 960px) { padding-right: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n9",
+    "property": "@media (min-width: 1264px) { padding-right: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n9",
+    "property": "@media (min-width: 1904px) { padding-right: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n10",
+    "property": "padding-right: 40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n10",
+    "property": "@media (min-width: 600px) { padding-right: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n10",
+    "property": "@media (min-width: 960px) { padding-right: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n10",
+    "property": "@media (min-width: 1264px) { padding-right: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n10",
+    "property": "@media (min-width: 1904px) { padding-right: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n11",
+    "property": "padding-right: 44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n11",
+    "property": "@media (min-width: 600px) { padding-right: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n11",
+    "property": "@media (min-width: 960px) { padding-right: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n11",
+    "property": "@media (min-width: 1264px) { padding-right: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n11",
+    "property": "@media (min-width: 1904px) { padding-right: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n12",
+    "property": "padding-right: 48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n12",
+    "property": "@media (min-width: 600px) { padding-right: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n12",
+    "property": "@media (min-width: 960px) { padding-right: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n12",
+    "property": "@media (min-width: 1264px) { padding-right: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n12",
+    "property": "@media (min-width: 1904px) { padding-right: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n13",
+    "property": "padding-right: 52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n13",
+    "property": "@media (min-width: 600px) { padding-right: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n13",
+    "property": "@media (min-width: 960px) { padding-right: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n13",
+    "property": "@media (min-width: 1264px) { padding-right: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n13",
+    "property": "@media (min-width: 1904px) { padding-right: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n14",
+    "property": "padding-right: 56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n14",
+    "property": "@media (min-width: 600px) { padding-right: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n14",
+    "property": "@media (min-width: 960px) { padding-right: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n14",
+    "property": "@media (min-width: 1264px) { padding-right: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n14",
+    "property": "@media (min-width: 1904px) { padding-right: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n15",
+    "property": "padding-right: 60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n15",
+    "property": "@media (min-width: 600px) { padding-right: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n15",
+    "property": "@media (min-width: 960px) { padding-right: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n15",
+    "property": "@media (min-width: 1264px) { padding-right: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n15",
+    "property": "@media (min-width: 1904px) { padding-right: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n16",
+    "property": "padding-right: 64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n16",
+    "property": "@media (min-width: 600px) { padding-right: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n16",
+    "property": "@media (min-width: 960px) { padding-right: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n16",
+    "property": "@media (min-width: 1264px) { padding-right: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n16",
+    "property": "@media (min-width: 1904px) { padding-right: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-auto",
+    "property": "padding-right: auto;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-auto",
+    "property": "@media (min-width: 600px) { padding-right: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-auto",
+    "property": "@media (min-width: 960px) { padding-right: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-auto",
+    "property": "@media (min-width: 1264px) { padding-right: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-auto",
+    "property": "@media (min-width: 1904px) { padding-right: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-0",
+    "property": "padding-left: 0; padding-right: 0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-0",
+    "property": "@media (min-width: 600px) { padding-left: 0; padding-right: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-0",
+    "property": "@media (min-width: 960px) { padding-left: 0; padding-right: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-0",
+    "property": "@media (min-width: 1264px) { padding-left: 0; padding-right: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-0",
+    "property": "@media (min-width: 1904px) { padding-left: 0; padding-right: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n1",
+    "property": "padding-left: 4px; padding-right: 4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n1",
+    "property": "@media (min-width: 600px) { padding-left: 4px; padding-right: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n1",
+    "property": "@media (min-width: 960px) { padding-left: 4px; padding-right: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n1",
+    "property": "@media (min-width: 1264px) { padding-left: 4px; padding-right: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n1",
+    "property": "@media (min-width: 1904px) { padding-left: 4px; padding-right: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n2",
+    "property": "padding-left: 8px; padding-right: 8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n2",
+    "property": "@media (min-width: 600px) { padding-left: 8px; padding-right: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n2",
+    "property": "@media (min-width: 960px) { padding-left: 8px; padding-right: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n2",
+    "property": "@media (min-width: 1264px) { padding-left: 8px; padding-right: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n2",
+    "property": "@media (min-width: 1904px) { padding-left: 8px; padding-right: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n3",
+    "property": "padding-left: 12px; padding-right: 12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n3",
+    "property": "@media (min-width: 600px) { padding-left: 12px; padding-right: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n3",
+    "property": "@media (min-width: 960px) { padding-left: 12px; padding-right: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n3",
+    "property": "@media (min-width: 1264px) { padding-left: 12px; padding-right: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n3",
+    "property": "@media (min-width: 1904px) { padding-left: 12px; padding-right: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n4",
+    "property": "padding-left: 16px; padding-right: 16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n4",
+    "property": "@media (min-width: 600px) { padding-left: 16px; padding-right: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n4",
+    "property": "@media (min-width: 960px) { padding-left: 16px; padding-right: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n4",
+    "property": "@media (min-width: 1264px) { padding-left: 16px; padding-right: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n4",
+    "property": "@media (min-width: 1904px) { padding-left: 16px; padding-right: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n5",
+    "property": "padding-left: 20px; padding-right: 20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n5",
+    "property": "@media (min-width: 600px) { padding-left: 20px; padding-right: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n5",
+    "property": "@media (min-width: 960px) { padding-left: 20px; padding-right: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n5",
+    "property": "@media (min-width: 1264px) { padding-left: 20px; padding-right: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n5",
+    "property": "@media (min-width: 1904px) { padding-left: 20px; padding-right: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n6",
+    "property": "padding-left: 24px; padding-right: 24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n6",
+    "property": "@media (min-width: 600px) { padding-left: 24px; padding-right: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n6",
+    "property": "@media (min-width: 960px) { padding-left: 24px; padding-right: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n6",
+    "property": "@media (min-width: 1264px) { padding-left: 24px; padding-right: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n6",
+    "property": "@media (min-width: 1904px) { padding-left: 24px; padding-right: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n7",
+    "property": "padding-left: 28px; padding-right: 28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n7",
+    "property": "@media (min-width: 600px) { padding-left: 28px; padding-right: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n7",
+    "property": "@media (min-width: 960px) { padding-left: 28px; padding-right: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n7",
+    "property": "@media (min-width: 1264px) { padding-left: 28px; padding-right: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n7",
+    "property": "@media (min-width: 1904px) { padding-left: 28px; padding-right: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n8",
+    "property": "padding-left: 32px; padding-right: 32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n8",
+    "property": "@media (min-width: 600px) { padding-left: 32px; padding-right: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n8",
+    "property": "@media (min-width: 960px) { padding-left: 32px; padding-right: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n8",
+    "property": "@media (min-width: 1264px) { padding-left: 32px; padding-right: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n8",
+    "property": "@media (min-width: 1904px) { padding-left: 32px; padding-right: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n9",
+    "property": "padding-left: 36px; padding-right: 36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n9",
+    "property": "@media (min-width: 600px) { padding-left: 36px; padding-right: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n9",
+    "property": "@media (min-width: 960px) { padding-left: 36px; padding-right: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n9",
+    "property": "@media (min-width: 1264px) { padding-left: 36px; padding-right: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n9",
+    "property": "@media (min-width: 1904px) { padding-left: 36px; padding-right: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n10",
+    "property": "padding-left: 40px; padding-right: 40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n10",
+    "property": "@media (min-width: 600px) { padding-left: 40px; padding-right: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n10",
+    "property": "@media (min-width: 960px) { padding-left: 40px; padding-right: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n10",
+    "property": "@media (min-width: 1264px) { padding-left: 40px; padding-right: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n10",
+    "property": "@media (min-width: 1904px) { padding-left: 40px; padding-right: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n11",
+    "property": "padding-left: 44px; padding-right: 44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n11",
+    "property": "@media (min-width: 600px) { padding-left: 44px; padding-right: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n11",
+    "property": "@media (min-width: 960px) { padding-left: 44px; padding-right: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n11",
+    "property": "@media (min-width: 1264px) { padding-left: 44px; padding-right: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n11",
+    "property": "@media (min-width: 1904px) { padding-left: 44px; padding-right: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n12",
+    "property": "padding-left: 48px; padding-right: 48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n12",
+    "property": "@media (min-width: 600px) { padding-left: 48px; padding-right: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n12",
+    "property": "@media (min-width: 960px) { padding-left: 48px; padding-right: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n12",
+    "property": "@media (min-width: 1264px) { padding-left: 48px; padding-right: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n12",
+    "property": "@media (min-width: 1904px) { padding-left: 48px; padding-right: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n13",
+    "property": "padding-left: 52px; padding-right: 52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n13",
+    "property": "@media (min-width: 600px) { padding-left: 52px; padding-right: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n13",
+    "property": "@media (min-width: 960px) { padding-left: 52px; padding-right: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n13",
+    "property": "@media (min-width: 1264px) { padding-left: 52px; padding-right: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n13",
+    "property": "@media (min-width: 1904px) { padding-left: 52px; padding-right: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n14",
+    "property": "padding-left: 56px; padding-right: 56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n14",
+    "property": "@media (min-width: 600px) { padding-left: 56px; padding-right: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n14",
+    "property": "@media (min-width: 960px) { padding-left: 56px; padding-right: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n14",
+    "property": "@media (min-width: 1264px) { padding-left: 56px; padding-right: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n14",
+    "property": "@media (min-width: 1904px) { padding-left: 56px; padding-right: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n15",
+    "property": "padding-left: 60px; padding-right: 60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n15",
+    "property": "@media (min-width: 600px) { padding-left: 60px; padding-right: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n15",
+    "property": "@media (min-width: 960px) { padding-left: 60px; padding-right: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n15",
+    "property": "@media (min-width: 1264px) { padding-left: 60px; padding-right: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n15",
+    "property": "@media (min-width: 1904px) { padding-left: 60px; padding-right: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n16",
+    "property": "padding-left: 64px; padding-right: 64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n16",
+    "property": "@media (min-width: 600px) { padding-left: 64px; padding-right: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n16",
+    "property": "@media (min-width: 960px) { padding-left: 64px; padding-right: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n16",
+    "property": "@media (min-width: 1264px) { padding-left: 64px; padding-right: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n16",
+    "property": "@media (min-width: 1904px) { padding-left: 64px; padding-right: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-auto",
+    "property": "padding-left: auto; padding-right: auto;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-auto",
+    "property": "@media (min-width: 600px) { padding-left: auto; padding-right: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-auto",
+    "property": "@media (min-width: 960px) { padding-left: auto; padding-right: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-auto",
+    "property": "@media (min-width: 1264px) { padding-left: auto; padding-right: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-auto",
+    "property": "@media (min-width: 1904px) { padding-left: auto; padding-right: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-0",
+    "property": "padding-top: 0; padding-bottom: 0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-0",
+    "property": "@media (min-width: 600px) { padding-top: 0; padding-bottom: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-0",
+    "property": "@media (min-width: 960px) { padding-top: 0; padding-bottom: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-0",
+    "property": "@media (min-width: 1264px) { padding-top: 0; padding-bottom: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-0",
+    "property": "@media (min-width: 1904px) { padding-top: 0; padding-bottom: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n1",
+    "property": "padding-top: 4px; padding-bottom: 4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n1",
+    "property": "@media (min-width: 600px) { padding-top: 4px; padding-bottom: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n1",
+    "property": "@media (min-width: 960px) { padding-top: 4px; padding-bottom: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n1",
+    "property": "@media (min-width: 1264px) { padding-top: 4px; padding-bottom: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n1",
+    "property": "@media (min-width: 1904px) { padding-top: 4px; padding-bottom: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n2",
+    "property": "padding-top: 8px; padding-bottom: 8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n2",
+    "property": "@media (min-width: 600px) { padding-top: 8px; padding-bottom: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n2",
+    "property": "@media (min-width: 960px) { padding-top: 8px; padding-bottom: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n2",
+    "property": "@media (min-width: 1264px) { padding-top: 8px; padding-bottom: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n2",
+    "property": "@media (min-width: 1904px) { padding-top: 8px; padding-bottom: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n3",
+    "property": "padding-top: 12px; padding-bottom: 12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n3",
+    "property": "@media (min-width: 600px) { padding-top: 12px; padding-bottom: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n3",
+    "property": "@media (min-width: 960px) { padding-top: 12px; padding-bottom: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n3",
+    "property": "@media (min-width: 1264px) { padding-top: 12px; padding-bottom: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n3",
+    "property": "@media (min-width: 1904px) { padding-top: 12px; padding-bottom: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n4",
+    "property": "padding-top: 16px; padding-bottom: 16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n4",
+    "property": "@media (min-width: 600px) { padding-top: 16px; padding-bottom: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n4",
+    "property": "@media (min-width: 960px) { padding-top: 16px; padding-bottom: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n4",
+    "property": "@media (min-width: 1264px) { padding-top: 16px; padding-bottom: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n4",
+    "property": "@media (min-width: 1904px) { padding-top: 16px; padding-bottom: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n5",
+    "property": "padding-top: 20px; padding-bottom: 20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n5",
+    "property": "@media (min-width: 600px) { padding-top: 20px; padding-bottom: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n5",
+    "property": "@media (min-width: 960px) { padding-top: 20px; padding-bottom: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n5",
+    "property": "@media (min-width: 1264px) { padding-top: 20px; padding-bottom: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n5",
+    "property": "@media (min-width: 1904px) { padding-top: 20px; padding-bottom: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n6",
+    "property": "padding-top: 24px; padding-bottom: 24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n6",
+    "property": "@media (min-width: 600px) { padding-top: 24px; padding-bottom: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n6",
+    "property": "@media (min-width: 960px) { padding-top: 24px; padding-bottom: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n6",
+    "property": "@media (min-width: 1264px) { padding-top: 24px; padding-bottom: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n6",
+    "property": "@media (min-width: 1904px) { padding-top: 24px; padding-bottom: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n7",
+    "property": "padding-top: 28px; padding-bottom: 28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n7",
+    "property": "@media (min-width: 600px) { padding-top: 28px; padding-bottom: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n7",
+    "property": "@media (min-width: 960px) { padding-top: 28px; padding-bottom: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n7",
+    "property": "@media (min-width: 1264px) { padding-top: 28px; padding-bottom: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n7",
+    "property": "@media (min-width: 1904px) { padding-top: 28px; padding-bottom: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n8",
+    "property": "padding-top: 32px; padding-bottom: 32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n8",
+    "property": "@media (min-width: 600px) { padding-top: 32px; padding-bottom: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n8",
+    "property": "@media (min-width: 960px) { padding-top: 32px; padding-bottom: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n8",
+    "property": "@media (min-width: 1264px) { padding-top: 32px; padding-bottom: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n8",
+    "property": "@media (min-width: 1904px) { padding-top: 32px; padding-bottom: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n9",
+    "property": "padding-top: 36px; padding-bottom: 36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n9",
+    "property": "@media (min-width: 600px) { padding-top: 36px; padding-bottom: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n9",
+    "property": "@media (min-width: 960px) { padding-top: 36px; padding-bottom: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n9",
+    "property": "@media (min-width: 1264px) { padding-top: 36px; padding-bottom: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n9",
+    "property": "@media (min-width: 1904px) { padding-top: 36px; padding-bottom: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n10",
+    "property": "padding-top: 40px; padding-bottom: 40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n10",
+    "property": "@media (min-width: 600px) { padding-top: 40px; padding-bottom: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n10",
+    "property": "@media (min-width: 960px) { padding-top: 40px; padding-bottom: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n10",
+    "property": "@media (min-width: 1264px) { padding-top: 40px; padding-bottom: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n10",
+    "property": "@media (min-width: 1904px) { padding-top: 40px; padding-bottom: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n11",
+    "property": "padding-top: 44px; padding-bottom: 44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n11",
+    "property": "@media (min-width: 600px) { padding-top: 44px; padding-bottom: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n11",
+    "property": "@media (min-width: 960px) { padding-top: 44px; padding-bottom: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n11",
+    "property": "@media (min-width: 1264px) { padding-top: 44px; padding-bottom: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n11",
+    "property": "@media (min-width: 1904px) { padding-top: 44px; padding-bottom: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n12",
+    "property": "padding-top: 48px; padding-bottom: 48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n12",
+    "property": "@media (min-width: 600px) { padding-top: 48px; padding-bottom: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n12",
+    "property": "@media (min-width: 960px) { padding-top: 48px; padding-bottom: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n12",
+    "property": "@media (min-width: 1264px) { padding-top: 48px; padding-bottom: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n12",
+    "property": "@media (min-width: 1904px) { padding-top: 48px; padding-bottom: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n13",
+    "property": "padding-top: 52px; padding-bottom: 52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n13",
+    "property": "@media (min-width: 600px) { padding-top: 52px; padding-bottom: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n13",
+    "property": "@media (min-width: 960px) { padding-top: 52px; padding-bottom: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n13",
+    "property": "@media (min-width: 1264px) { padding-top: 52px; padding-bottom: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n13",
+    "property": "@media (min-width: 1904px) { padding-top: 52px; padding-bottom: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n14",
+    "property": "padding-top: 56px; padding-bottom: 56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n14",
+    "property": "@media (min-width: 600px) { padding-top: 56px; padding-bottom: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n14",
+    "property": "@media (min-width: 960px) { padding-top: 56px; padding-bottom: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n14",
+    "property": "@media (min-width: 1264px) { padding-top: 56px; padding-bottom: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n14",
+    "property": "@media (min-width: 1904px) { padding-top: 56px; padding-bottom: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n15",
+    "property": "padding-top: 60px; padding-bottom: 60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n15",
+    "property": "@media (min-width: 600px) { padding-top: 60px; padding-bottom: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n15",
+    "property": "@media (min-width: 960px) { padding-top: 60px; padding-bottom: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n15",
+    "property": "@media (min-width: 1264px) { padding-top: 60px; padding-bottom: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n15",
+    "property": "@media (min-width: 1904px) { padding-top: 60px; padding-bottom: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n16",
+    "property": "padding-top: 64px; padding-bottom: 64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n16",
+    "property": "@media (min-width: 600px) { padding-top: 64px; padding-bottom: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n16",
+    "property": "@media (min-width: 960px) { padding-top: 64px; padding-bottom: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n16",
+    "property": "@media (min-width: 1264px) { padding-top: 64px; padding-bottom: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n16",
+    "property": "@media (min-width: 1904px) { padding-top: 64px; padding-bottom: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-auto",
+    "property": "padding-top: auto; padding-bottom: auto;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-auto",
+    "property": "@media (min-width: 600px) { padding-top: auto; padding-bottom: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-auto",
+    "property": "@media (min-width: 960px) { padding-top: auto; padding-bottom: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-auto",
+    "property": "@media (min-width: 1264px) { padding-top: auto; padding-bottom: auto; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-auto",
+    "property": "@media (min-width: 1904px) { padding-top: auto; padding-bottom: auto; }",
+    "category": "Spacing"
+  },
+
+  {
+    "class": "pa-n1",
+    "property": "padding: 4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n1",
+    "property": "@media (min-width: 600px) { padding: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n1",
+    "property": "@media (min-width: 960px) { padding: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n1",
+    "property": "@media (min-width: 1264px) { padding: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n1",
+    "property": "@media (min-width: 1904px) { padding: 4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n2",
+    "property": "padding: 8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n2",
+    "property": "@media (min-width: 600px) { padding: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n2",
+    "property": "@media (min-width: 960px) { padding: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n2",
+    "property": "@media (min-width: 1264px) { padding: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n2",
+    "property": "@media (min-width: 1904px) { padding: 8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n3",
+    "property": "padding: 12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n3",
+    "property": "@media (min-width: 600px) { padding: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n3",
+    "property": "@media (min-width: 960px) { padding: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n3",
+    "property": "@media (min-width: 1264px) { padding: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n3",
+    "property": "@media (min-width: 1904px) { padding: 12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n4",
+    "property": "padding: 16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n4",
+    "property": "@media (min-width: 600px) { padding: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n4",
+    "property": "@media (min-width: 960px) { padding: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n4",
+    "property": "@media (min-width: 1264px) { padding: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n4",
+    "property": "@media (min-width: 1904px) { padding: 16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n5",
+    "property": "padding: 20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n5",
+    "property": "@media (min-width: 600px) { padding: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n5",
+    "property": "@media (min-width: 960px) { padding: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n5",
+    "property": "@media (min-width: 1264px) { padding: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n5",
+    "property": "@media (min-width: 1904px) { padding: 20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n6",
+    "property": "padding: 24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n6",
+    "property": "@media (min-width: 600px) { padding: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n6",
+    "property": "@media (min-width: 960px) { padding: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n6",
+    "property": "@media (min-width: 1264px) { padding: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n6",
+    "property": "@media (min-width: 1904px) { padding: 24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n7",
+    "property": "padding: 28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n7",
+    "property": "@media (min-width: 600px) { padding: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n7",
+    "property": "@media (min-width: 960px) { padding: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n7",
+    "property": "@media (min-width: 1264px) { padding: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n7",
+    "property": "@media (min-width: 1904px) { padding: 28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n8",
+    "property": "padding: 32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n8",
+    "property": "@media (min-width: 600px) { padding: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n8",
+    "property": "@media (min-width: 960px) { padding: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n8",
+    "property": "@media (min-width: 1264px) { padding: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n8",
+    "property": "@media (min-width: 1904px) { padding: 32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n9",
+    "property": "padding: 36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n9",
+    "property": "@media (min-width: 600px) { padding: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n9",
+    "property": "@media (min-width: 960px) { padding: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n9",
+    "property": "@media (min-width: 1264px) { padding: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n9",
+    "property": "@media (min-width: 1904px) { padding: 36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n10",
+    "property": "padding: 40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n10",
+    "property": "@media (min-width: 600px) { padding: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n10",
+    "property": "@media (min-width: 960px) { padding: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n10",
+    "property": "@media (min-width: 1264px) { padding: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n10",
+    "property": "@media (min-width: 1904px) { padding: 40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n11",
+    "property": "padding: 44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n11",
+    "property": "@media (min-width: 600px) { padding: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n11",
+    "property": "@media (min-width: 960px) { padding: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n11",
+    "property": "@media (min-width: 1264px) { padding: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n11",
+    "property": "@media (min-width: 1904px) { padding: 44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n12",
+    "property": "padding: 48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n12",
+    "property": "@media (min-width: 600px) { padding: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n12",
+    "property": "@media (min-width: 960px) { padding: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n12",
+    "property": "@media (min-width: 1264px) { padding: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n12",
+    "property": "@media (min-width: 1904px) { padding: 48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n13",
+    "property": "padding: 52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n13",
+    "property": "@media (min-width: 600px) { padding: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n13",
+    "property": "@media (min-width: 960px) { padding: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n13",
+    "property": "@media (min-width: 1264px) { padding: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n13",
+    "property": "@media (min-width: 1904px) { padding: 52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n14",
+    "property": "padding: 56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n14",
+    "property": "@media (min-width: 600px) { padding: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n14",
+    "property": "@media (min-width: 960px) { padding: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n14",
+    "property": "@media (min-width: 1264px) { padding: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n14",
+    "property": "@media (min-width: 1904px) { padding: 56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n15",
+    "property": "padding: 60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n15",
+    "property": "@media (min-width: 600px) { padding: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n15",
+    "property": "@media (min-width: 960px) { padding: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n15",
+    "property": "@media (min-width: 1264px) { padding: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n15",
+    "property": "@media (min-width: 1904px) { padding: 60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-n16",
+    "property": "padding: 64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-sm-n16",
+    "property": "@media (min-width: 600px) { padding: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-md-n16",
+    "property": "@media (min-width: 960px) { padding: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-lg-n16",
+    "property": "@media (min-width: 1264px) { padding: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pa-xl-n16",
+    "property": "@media (min-width: 1904px) { padding: 64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-0",
+    "property": "padding-top: 0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-0",
+    "property": "@media (min-width: 600px) { padding-top: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-0",
+    "property": "@media (min-width: 960px) { padding-top: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-0",
+    "property": "@media (min-width: 1264px) { padding-top: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-0",
+    "property": "@media (min-width: 1904px) { padding-top: 0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n1",
+    "property": "padding-top: -4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n1",
+    "property": "@media (min-width: 600px) { padding-top: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n1",
+    "property": "@media (min-width: 960px) { padding-top: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n1",
+    "property": "@media (min-width: 1264px) { padding-top: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n1",
+    "property": "@media (min-width: 1904px) { padding-top: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n2",
+    "property": "padding-top: -8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n2",
+    "property": "@media (min-width: 600px) { padding-top: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n2",
+    "property": "@media (min-width: 960px) { padding-top: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n2",
+    "property": "@media (min-width: 1264px) { padding-top: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n2",
+    "property": "@media (min-width: 1904px) { padding-top: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n3",
+    "property": "padding-top: -12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n3",
+    "property": "@media (min-width: 600px) { padding-top: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n3",
+    "property": "@media (min-width: 960px) { padding-top: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n3",
+    "property": "@media (min-width: 1264px) { padding-top: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n3",
+    "property": "@media (min-width: 1904px) { padding-top: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n4",
+    "property": "padding-top: -16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n4",
+    "property": "@media (min-width: 600px) { padding-top: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n4",
+    "property": "@media (min-width: 960px) { padding-top: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n4",
+    "property": "@media (min-width: 1264px) { padding-top: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n4",
+    "property": "@media (min-width: 1904px) { padding-top: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n5",
+    "property": "padding-top: -20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n5",
+    "property": "@media (min-width: 600px) { padding-top: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n5",
+    "property": "@media (min-width: 960px) { padding-top: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n5",
+    "property": "@media (min-width: 1264px) { padding-top: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n5",
+    "property": "@media (min-width: 1904px) { padding-top: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n6",
+    "property": "padding-top: -24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n6",
+    "property": "@media (min-width: 600px) { padding-top: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n6",
+    "property": "@media (min-width: 960px) { padding-top: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n6",
+    "property": "@media (min-width: 1264px) { padding-top: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n6",
+    "property": "@media (min-width: 1904px) { padding-top: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n7",
+    "property": "padding-top: -28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n7",
+    "property": "@media (min-width: 600px) { padding-top: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n7",
+    "property": "@media (min-width: 960px) { padding-top: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n7",
+    "property": "@media (min-width: 1264px) { padding-top: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n7",
+    "property": "@media (min-width: 1904px) { padding-top: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n8",
+    "property": "padding-top: -32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n8",
+    "property": "@media (min-width: 600px) { padding-top: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n8",
+    "property": "@media (min-width: 960px) { padding-top: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n8",
+    "property": "@media (min-width: 1264px) { padding-top: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n8",
+    "property": "@media (min-width: 1904px) { padding-top: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n9",
+    "property": "padding-top: -36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n9",
+    "property": "@media (min-width: 600px) { padding-top: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n9",
+    "property": "@media (min-width: 960px) { padding-top: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n9",
+    "property": "@media (min-width: 1264px) { padding-top: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n9",
+    "property": "@media (min-width: 1904px) { padding-top: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n10",
+    "property": "padding-top: -40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n10",
+    "property": "@media (min-width: 600px) { padding-top: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n10",
+    "property": "@media (min-width: 960px) { padding-top: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n10",
+    "property": "@media (min-width: 1264px) { padding-top: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n10",
+    "property": "@media (min-width: 1904px) { padding-top: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n11",
+    "property": "padding-top: -44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n11",
+    "property": "@media (min-width: 600px) { padding-top: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n11",
+    "property": "@media (min-width: 960px) { padding-top: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n11",
+    "property": "@media (min-width: 1264px) { padding-top: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n11",
+    "property": "@media (min-width: 1904px) { padding-top: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n12",
+    "property": "padding-top: -48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n12",
+    "property": "@media (min-width: 600px) { padding-top: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n12",
+    "property": "@media (min-width: 960px) { padding-top: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n12",
+    "property": "@media (min-width: 1264px) { padding-top: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n12",
+    "property": "@media (min-width: 1904px) { padding-top: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n13",
+    "property": "padding-top: -52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n13",
+    "property": "@media (min-width: 600px) { padding-top: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n13",
+    "property": "@media (min-width: 960px) { padding-top: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n13",
+    "property": "@media (min-width: 1264px) { padding-top: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n13",
+    "property": "@media (min-width: 1904px) { padding-top: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n14",
+    "property": "padding-top: -56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n14",
+    "property": "@media (min-width: 600px) { padding-top: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n14",
+    "property": "@media (min-width: 960px) { padding-top: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n14",
+    "property": "@media (min-width: 1264px) { padding-top: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n14",
+    "property": "@media (min-width: 1904px) { padding-top: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n15",
+    "property": "padding-top: -60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n15",
+    "property": "@media (min-width: 600px) { padding-top: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n15",
+    "property": "@media (min-width: 960px) { padding-top: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n15",
+    "property": "@media (min-width: 1264px) { padding-top: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n15",
+    "property": "@media (min-width: 1904px) { padding-top: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-n16",
+    "property": "padding-top: -64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-sm-n16",
+    "property": "@media (min-width: 600px) { padding-top: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-md-n16",
+    "property": "@media (min-width: 960px) { padding-top: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-lg-n16",
+    "property": "@media (min-width: 1264px) { padding-top: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pt-xl-n16",
+    "property": "@media (min-width: 1904px) { padding-top: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-0",
+    "property": "padding-bottom: -0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-0",
+    "property": "@media (min-width: 600px) { padding-bottom: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-0",
+    "property": "@media (min-width: 960px) { padding-bottom: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-0",
+    "property": "@media (min-width: 1264px) { padding-bottom: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-0",
+    "property": "@media (min-width: 1904px) { padding-bottom: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n1",
+    "property": "padding-bottom: -4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n1",
+    "property": "@media (min-width: 600px) { padding-bottom: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n1",
+    "property": "@media (min-width: 960px) { padding-bottom: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n1",
+    "property": "@media (min-width: 1264px) { padding-bottom: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n1",
+    "property": "@media (min-width: 1904px) { padding-bottom: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n2",
+    "property": "padding-bottom: -8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n2",
+    "property": "@media (min-width: 600px) { padding-bottom: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n2",
+    "property": "@media (min-width: 960px) { padding-bottom: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n2",
+    "property": "@media (min-width: 1264px) { padding-bottom: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n2",
+    "property": "@media (min-width: 1904px) { padding-bottom: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n3",
+    "property": "padding-bottom: -12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n3",
+    "property": "@media (min-width: 600px) { padding-bottom: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n3",
+    "property": "@media (min-width: 960px) { padding-bottom: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n3",
+    "property": "@media (min-width: 1264px) { padding-bottom: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n3",
+    "property": "@media (min-width: 1904px) { padding-bottom: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n4",
+    "property": "padding-bottom: -16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n4",
+    "property": "@media (min-width: 600px) { padding-bottom: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n4",
+    "property": "@media (min-width: 960px) { padding-bottom: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n4",
+    "property": "@media (min-width: 1264px) { padding-bottom: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n4",
+    "property": "@media (min-width: 1904px) { padding-bottom: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n5",
+    "property": "padding-bottom: -20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n5",
+    "property": "@media (min-width: 600px) { padding-bottom: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n5",
+    "property": "@media (min-width: 960px) { padding-bottom: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n5",
+    "property": "@media (min-width: 1264px) { padding-bottom: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n5",
+    "property": "@media (min-width: 1904px) { padding-bottom: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n6",
+    "property": "padding-bottom: -24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n6",
+    "property": "@media (min-width: 600px) { padding-bottom: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n6",
+    "property": "@media (min-width: 960px) { padding-bottom: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n6",
+    "property": "@media (min-width: 1264px) { padding-bottom: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n6",
+    "property": "@media (min-width: 1904px) { padding-bottom: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n7",
+    "property": "padding-bottom: -28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n7",
+    "property": "@media (min-width: 600px) { padding-bottom: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n7",
+    "property": "@media (min-width: 960px) { padding-bottom: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n7",
+    "property": "@media (min-width: 1264px) { padding-bottom: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n7",
+    "property": "@media (min-width: 1904px) { padding-bottom: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n8",
+    "property": "padding-bottom: -32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n8",
+    "property": "@media (min-width: 600px) { padding-bottom: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n8",
+    "property": "@media (min-width: 960px) { padding-bottom: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n8",
+    "property": "@media (min-width: 1264px) { padding-bottom: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n8",
+    "property": "@media (min-width: 1904px) { padding-bottom: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n9",
+    "property": "padding-bottom: -36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n9",
+    "property": "@media (min-width: 600px) { padding-bottom: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n9",
+    "property": "@media (min-width: 960px) { padding-bottom: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n9",
+    "property": "@media (min-width: 1264px) { padding-bottom: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n9",
+    "property": "@media (min-width: 1904px) { padding-bottom: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n10",
+    "property": "padding-bottom: -40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n10",
+    "property": "@media (min-width: 600px) { padding-bottom: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n10",
+    "property": "@media (min-width: 960px) { padding-bottom: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n10",
+    "property": "@media (min-width: 1264px) { padding-bottom: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n10",
+    "property": "@media (min-width: 1904px) { padding-bottom: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n11",
+    "property": "padding-bottom: -44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n11",
+    "property": "@media (min-width: 600px) { padding-bottom: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n11",
+    "property": "@media (min-width: 960px) { padding-bottom: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n11",
+    "property": "@media (min-width: 1264px) { padding-bottom: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n11",
+    "property": "@media (min-width: 1904px) { padding-bottom: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n12",
+    "property": "padding-bottom: -48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n12",
+    "property": "@media (min-width: 600px) { padding-bottom: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n12",
+    "property": "@media (min-width: 960px) { padding-bottom: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n12",
+    "property": "@media (min-width: 1264px) { padding-bottom: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n12",
+    "property": "@media (min-width: 1904px) { padding-bottom: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n13",
+    "property": "padding-bottom: -52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n13",
+    "property": "@media (min-width: 600px) { padding-bottom: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n13",
+    "property": "@media (min-width: 960px) { padding-bottom: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n13",
+    "property": "@media (min-width: 1264px) { padding-bottom: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n13",
+    "property": "@media (min-width: 1904px) { padding-bottom: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n14",
+    "property": "padding-bottom: -56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n14",
+    "property": "@media (min-width: 600px) { padding-bottom: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n14",
+    "property": "@media (min-width: 960px) { padding-bottom: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n14",
+    "property": "@media (min-width: 1264px) { padding-bottom: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n14",
+    "property": "@media (min-width: 1904px) { padding-bottom: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n15",
+    "property": "padding-bottom: -60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n15",
+    "property": "@media (min-width: 600px) { padding-bottom: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n15",
+    "property": "@media (min-width: 960px) { padding-bottom: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n15",
+    "property": "@media (min-width: 1264px) { padding-bottom: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n15",
+    "property": "@media (min-width: 1904px) { padding-bottom: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-n16",
+    "property": "padding-bottom: -64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-sm-n16",
+    "property": "@media (min-width: 600px) { padding-bottom: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-md-n16",
+    "property": "@media (min-width: 960px) { padding-bottom: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-lg-n16",
+    "property": "@media (min-width: 1264px) { padding-bottom: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pb-xl-n16",
+    "property": "@media (min-width: 1904px) { padding-bottom: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-0",
+    "property": "padding-left: -0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-0",
+    "property": "@media (min-width: 600px) { padding-left: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-0",
+    "property": "@media (min-width: 960px) { padding-left: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-0",
+    "property": "@media (min-width: 1264px) { padding-left: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-0",
+    "property": "@media (min-width: 1904px) { padding-left: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n1",
+    "property": "padding-left: -4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n1",
+    "property": "@media (min-width: 600px) { padding-left: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n1",
+    "property": "@media (min-width: 960px) { padding-left: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n1",
+    "property": "@media (min-width: 1264px) { padding-left: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n1",
+    "property": "@media (min-width: 1904px) { padding-left: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n2",
+    "property": "padding-left: -8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n2",
+    "property": "@media (min-width: 600px) { padding-left: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n2",
+    "property": "@media (min-width: 960px) { padding-left: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n2",
+    "property": "@media (min-width: 1264px) { padding-left: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n2",
+    "property": "@media (min-width: 1904px) { padding-left: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n3",
+    "property": "padding-left: -12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n3",
+    "property": "@media (min-width: 600px) { padding-left: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n3",
+    "property": "@media (min-width: 960px) { padding-left: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n3",
+    "property": "@media (min-width: 1264px) { padding-left: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n3",
+    "property": "@media (min-width: 1904px) { padding-left: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n4",
+    "property": "padding-left: -16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n4",
+    "property": "@media (min-width: 600px) { padding-left: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n4",
+    "property": "@media (min-width: 960px) { padding-left: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n4",
+    "property": "@media (min-width: 1264px) { padding-left: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n4",
+    "property": "@media (min-width: 1904px) { padding-left: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n5",
+    "property": "padding-left: -20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n5",
+    "property": "@media (min-width: 600px) { padding-left: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n5",
+    "property": "@media (min-width: 960px) { padding-left: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n5",
+    "property": "@media (min-width: 1264px) { padding-left: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n5",
+    "property": "@media (min-width: 1904px) { padding-left: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n6",
+    "property": "padding-left: -24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n6",
+    "property": "@media (min-width: 600px) { padding-left: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n6",
+    "property": "@media (min-width: 960px) { padding-left: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n6",
+    "property": "@media (min-width: 1264px) { padding-left: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n6",
+    "property": "@media (min-width: 1904px) { padding-left: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n7",
+    "property": "padding-left: -28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n7",
+    "property": "@media (min-width: 600px) { padding-left: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n7",
+    "property": "@media (min-width: 960px) { padding-left: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n7",
+    "property": "@media (min-width: 1264px) { padding-left: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n7",
+    "property": "@media (min-width: 1904px) { padding-left: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n8",
+    "property": "padding-left: -32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n8",
+    "property": "@media (min-width: 600px) { padding-left: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n8",
+    "property": "@media (min-width: 960px) { padding-left: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n8",
+    "property": "@media (min-width: 1264px) { padding-left: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n8",
+    "property": "@media (min-width: 1904px) { padding-left: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n9",
+    "property": "padding-left: -36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n9",
+    "property": "@media (min-width: 600px) { padding-left: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n9",
+    "property": "@media (min-width: 960px) { padding-left: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n9",
+    "property": "@media (min-width: 1264px) { padding-left: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n9",
+    "property": "@media (min-width: 1904px) { padding-left: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n10",
+    "property": "padding-left: -40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n10",
+    "property": "@media (min-width: 600px) { padding-left: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n10",
+    "property": "@media (min-width: 960px) { padding-left: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n10",
+    "property": "@media (min-width: 1264px) { padding-left: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n10",
+    "property": "@media (min-width: 1904px) { padding-left: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n11",
+    "property": "padding-left: -44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n11",
+    "property": "@media (min-width: 600px) { padding-left: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n11",
+    "property": "@media (min-width: 960px) { padding-left: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n11",
+    "property": "@media (min-width: 1264px) { padding-left: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n11",
+    "property": "@media (min-width: 1904px) { padding-left: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n12",
+    "property": "padding-left: -48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n12",
+    "property": "@media (min-width: 600px) { padding-left: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n12",
+    "property": "@media (min-width: 960px) { padding-left: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n12",
+    "property": "@media (min-width: 1264px) { padding-left: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n12",
+    "property": "@media (min-width: 1904px) { padding-left: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n13",
+    "property": "padding-left: -52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n13",
+    "property": "@media (min-width: 600px) { padding-left: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n13",
+    "property": "@media (min-width: 960px) { padding-left: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n13",
+    "property": "@media (min-width: 1264px) { padding-left: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n13",
+    "property": "@media (min-width: 1904px) { padding-left: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n14",
+    "property": "padding-left: -56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n14",
+    "property": "@media (min-width: 600px) { padding-left: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n14",
+    "property": "@media (min-width: 960px) { padding-left: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n14",
+    "property": "@media (min-width: 1264px) { padding-left: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n14",
+    "property": "@media (min-width: 1904px) { padding-left: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n15",
+    "property": "padding-left: -60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n15",
+    "property": "@media (min-width: 600px) { padding-left: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n15",
+    "property": "@media (min-width: 960px) { padding-left: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n15",
+    "property": "@media (min-width: 1264px) { padding-left: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n15",
+    "property": "@media (min-width: 1904px) { padding-left: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-n16",
+    "property": "padding-left: -64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-sm-n16",
+    "property": "@media (min-width: 600px) { padding-left: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-md-n16",
+    "property": "@media (min-width: 960px) { padding-left: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-lg-n16",
+    "property": "@media (min-width: 1264px) { padding-left: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pl-xl-n16",
+    "property": "@media (min-width: 1904px) { padding-left: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-0",
+    "property": "padding-right: -0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-0",
+    "property": "@media (min-width: 600px) { padding-right: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-0",
+    "property": "@media (min-width: 960px) { padding-right: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-0",
+    "property": "@media (min-width: 1264px) { padding-right: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-0",
+    "property": "@media (min-width: 1904px) { padding-right: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n1",
+    "property": "padding-right: -4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n1",
+    "property": "@media (min-width: 600px) { padding-right: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n1",
+    "property": "@media (min-width: 960px) { padding-right: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n1",
+    "property": "@media (min-width: 1264px) { padding-right: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n1",
+    "property": "@media (min-width: 1904px) { padding-right: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n2",
+    "property": "padding-right: -8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n2",
+    "property": "@media (min-width: 600px) { padding-right: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n2",
+    "property": "@media (min-width: 960px) { padding-right: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n2",
+    "property": "@media (min-width: 1264px) { padding-right: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n2",
+    "property": "@media (min-width: 1904px) { padding-right: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n3",
+    "property": "padding-right: -12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n3",
+    "property": "@media (min-width: 600px) { padding-right: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n3",
+    "property": "@media (min-width: 960px) { padding-right: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n3",
+    "property": "@media (min-width: 1264px) { padding-right: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n3",
+    "property": "@media (min-width: 1904px) { padding-right: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n4",
+    "property": "padding-right: -16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n4",
+    "property": "@media (min-width: 600px) { padding-right: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n4",
+    "property": "@media (min-width: 960px) { padding-right: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n4",
+    "property": "@media (min-width: 1264px) { padding-right: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n4",
+    "property": "@media (min-width: 1904px) { padding-right: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n5",
+    "property": "padding-right: -20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n5",
+    "property": "@media (min-width: 600px) { padding-right: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n5",
+    "property": "@media (min-width: 960px) { padding-right: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n5",
+    "property": "@media (min-width: 1264px) { padding-right: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n5",
+    "property": "@media (min-width: 1904px) { padding-right: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n6",
+    "property": "padding-right: -24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n6",
+    "property": "@media (min-width: 600px) { padding-right: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n6",
+    "property": "@media (min-width: 960px) { padding-right: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n6",
+    "property": "@media (min-width: 1264px) { padding-right: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n6",
+    "property": "@media (min-width: 1904px) { padding-right: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n7",
+    "property": "padding-right: -28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n7",
+    "property": "@media (min-width: 600px) { padding-right: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n7",
+    "property": "@media (min-width: 960px) { padding-right: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n7",
+    "property": "@media (min-width: 1264px) { padding-right: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n7",
+    "property": "@media (min-width: 1904px) { padding-right: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n8",
+    "property": "padding-right: -32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n8",
+    "property": "@media (min-width: 600px) { padding-right: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n8",
+    "property": "@media (min-width: 960px) { padding-right: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n8",
+    "property": "@media (min-width: 1264px) { padding-right: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n8",
+    "property": "@media (min-width: 1904px) { padding-right: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n9",
+    "property": "padding-right: -36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n9",
+    "property": "@media (min-width: 600px) { padding-right: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n9",
+    "property": "@media (min-width: 960px) { padding-right: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n9",
+    "property": "@media (min-width: 1264px) { padding-right: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n9",
+    "property": "@media (min-width: 1904px) { padding-right: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n10",
+    "property": "padding-right: -40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n10",
+    "property": "@media (min-width: 600px) { padding-right: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n10",
+    "property": "@media (min-width: 960px) { padding-right: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n10",
+    "property": "@media (min-width: 1264px) { padding-right: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n10",
+    "property": "@media (min-width: 1904px) { padding-right: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n11",
+    "property": "padding-right: -44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n11",
+    "property": "@media (min-width: 600px) { padding-right: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n11",
+    "property": "@media (min-width: 960px) { padding-right: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n11",
+    "property": "@media (min-width: 1264px) { padding-right: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n11",
+    "property": "@media (min-width: 1904px) { padding-right: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n12",
+    "property": "padding-right: -48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n12",
+    "property": "@media (min-width: 600px) { padding-right: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n12",
+    "property": "@media (min-width: 960px) { padding-right: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n12",
+    "property": "@media (min-width: 1264px) { padding-right: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n12",
+    "property": "@media (min-width: 1904px) { padding-right: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n13",
+    "property": "padding-right: -52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n13",
+    "property": "@media (min-width: 600px) { padding-right: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n13",
+    "property": "@media (min-width: 960px) { padding-right: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n13",
+    "property": "@media (min-width: 1264px) { padding-right: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n13",
+    "property": "@media (min-width: 1904px) { padding-right: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n14",
+    "property": "padding-right: -56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n14",
+    "property": "@media (min-width: 600px) { padding-right: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n14",
+    "property": "@media (min-width: 960px) { padding-right: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n14",
+    "property": "@media (min-width: 1264px) { padding-right: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n14",
+    "property": "@media (min-width: 1904px) { padding-right: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n15",
+    "property": "padding-right: -60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n15",
+    "property": "@media (min-width: 600px) { padding-right: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n15",
+    "property": "@media (min-width: 960px) { padding-right: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n15",
+    "property": "@media (min-width: 1264px) { padding-right: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n15",
+    "property": "@media (min-width: 1904px) { padding-right: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-n16",
+    "property": "padding-right: -64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-sm-n16",
+    "property": "@media (min-width: 600px) { padding-right: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-md-n16",
+    "property": "@media (min-width: 960px) { padding-right: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-lg-n16",
+    "property": "@media (min-width: 1264px) { padding-right: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "pr-xl-n16",
+    "property": "@media (min-width: 1904px) { padding-right: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-0",
+    "property": "padding-left: -0; padding-right: -0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-0",
+    "property": "@media (min-width: 600px) { padding-left: -0; padding-right: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-0",
+    "property": "@media (min-width: 960px) { padding-left: -0; padding-right: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-0",
+    "property": "@media (min-width: 1264px) { padding-left: -0; padding-right: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-0",
+    "property": "@media (min-width: 1904px) { padding-left: -0; padding-right: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n1",
+    "property": "padding-left: -4px; padding-right: -4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n1",
+    "property": "@media (min-width: 600px) { padding-left: -4px; padding-right: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n1",
+    "property": "@media (min-width: 960px) { padding-left: -4px; padding-right: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n1",
+    "property": "@media (min-width: 1264px) { padding-left: -4px; padding-right: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n1",
+    "property": "@media (min-width: 1904px) { padding-left: -4px; padding-right: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n2",
+    "property": "padding-left: -8px; padding-right: -8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n2",
+    "property": "@media (min-width: 600px) { padding-left: -8px; padding-right: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n2",
+    "property": "@media (min-width: 960px) { padding-left: -8px; padding-right: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n2",
+    "property": "@media (min-width: 1264px) { padding-left: -8px; padding-right: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n2",
+    "property": "@media (min-width: 1904px) { padding-left: -8px; padding-right: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n3",
+    "property": "padding-left: -12px; padding-right: -12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n3",
+    "property": "@media (min-width: 600px) { padding-left: -12px; padding-right: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n3",
+    "property": "@media (min-width: 960px) { padding-left: -12px; padding-right: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n3",
+    "property": "@media (min-width: 1264px) { padding-left: -12px; padding-right: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n3",
+    "property": "@media (min-width: 1904px) { padding-left: -12px; padding-right: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n4",
+    "property": "padding-left: -16px; padding-right: -16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n4",
+    "property": "@media (min-width: 600px) { padding-left: -16px; padding-right: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n4",
+    "property": "@media (min-width: 960px) { padding-left: -16px; padding-right: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n4",
+    "property": "@media (min-width: 1264px) { padding-left: -16px; padding-right: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n4",
+    "property": "@media (min-width: 1904px) { padding-left: -16px; padding-right: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n5",
+    "property": "padding-left: -20px; padding-right: -20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n5",
+    "property": "@media (min-width: 600px) { padding-left: -20px; padding-right: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n5",
+    "property": "@media (min-width: 960px) { padding-left: -20px; padding-right: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n5",
+    "property": "@media (min-width: 1264px) { padding-left: -20px; padding-right: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n5",
+    "property": "@media (min-width: 1904px) { padding-left: -20px; padding-right: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n6",
+    "property": "padding-left: -24px; padding-right: -24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n6",
+    "property": "@media (min-width: 600px) { padding-left: -24px; padding-right: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n6",
+    "property": "@media (min-width: 960px) { padding-left: -24px; padding-right: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n6",
+    "property": "@media (min-width: 1264px) { padding-left: -24px; padding-right: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n6",
+    "property": "@media (min-width: 1904px) { padding-left: -24px; padding-right: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n7",
+    "property": "padding-left: -28px; padding-right: -28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n7",
+    "property": "@media (min-width: 600px) { padding-left: -28px; padding-right: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n7",
+    "property": "@media (min-width: 960px) { padding-left: -28px; padding-right: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n7",
+    "property": "@media (min-width: 1264px) { padding-left: -28px; padding-right: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n7",
+    "property": "@media (min-width: 1904px) { padding-left: -28px; padding-right: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n8",
+    "property": "padding-left: -32px; padding-right: -32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n8",
+    "property": "@media (min-width: 600px) { padding-left: -32px; padding-right: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n8",
+    "property": "@media (min-width: 960px) { padding-left: -32px; padding-right: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n8",
+    "property": "@media (min-width: 1264px) { padding-left: -32px; padding-right: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n8",
+    "property": "@media (min-width: 1904px) { padding-left: -32px; padding-right: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n9",
+    "property": "padding-left: -36px; padding-right: -36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n9",
+    "property": "@media (min-width: 600px) { padding-left: -36px; padding-right: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n9",
+    "property": "@media (min-width: 960px) { padding-left: -36px; padding-right: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n9",
+    "property": "@media (min-width: 1264px) { padding-left: -36px; padding-right: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n9",
+    "property": "@media (min-width: 1904px) { padding-left: -36px; padding-right: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n10",
+    "property": "padding-left: -40px; padding-right: -40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n10",
+    "property": "@media (min-width: 600px) { padding-left: -40px; padding-right: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n10",
+    "property": "@media (min-width: 960px) { padding-left: -40px; padding-right: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n10",
+    "property": "@media (min-width: 1264px) { padding-left: -40px; padding-right: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n10",
+    "property": "@media (min-width: 1904px) { padding-left: -40px; padding-right: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n11",
+    "property": "padding-left: -44px; padding-right: -44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n11",
+    "property": "@media (min-width: 600px) { padding-left: -44px; padding-right: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n11",
+    "property": "@media (min-width: 960px) { padding-left: -44px; padding-right: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n11",
+    "property": "@media (min-width: 1264px) { padding-left: -44px; padding-right: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n11",
+    "property": "@media (min-width: 1904px) { padding-left: -44px; padding-right: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n12",
+    "property": "padding-left: -48px; padding-right: -48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n12",
+    "property": "@media (min-width: 600px) { padding-left: -48px; padding-right: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n12",
+    "property": "@media (min-width: 960px) { padding-left: -48px; padding-right: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n12",
+    "property": "@media (min-width: 1264px) { padding-left: -48px; padding-right: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n12",
+    "property": "@media (min-width: 1904px) { padding-left: -48px; padding-right: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n13",
+    "property": "padding-left: -52px; padding-right: -52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n13",
+    "property": "@media (min-width: 600px) { padding-left: -52px; padding-right: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n13",
+    "property": "@media (min-width: 960px) { padding-left: -52px; padding-right: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n13",
+    "property": "@media (min-width: 1264px) { padding-left: -52px; padding-right: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n13",
+    "property": "@media (min-width: 1904px) { padding-left: -52px; padding-right: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n14",
+    "property": "padding-left: -56px; padding-right: -56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n14",
+    "property": "@media (min-width: 600px) { padding-left: -56px; padding-right: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n14",
+    "property": "@media (min-width: 960px) { padding-left: -56px; padding-right: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n14",
+    "property": "@media (min-width: 1264px) { padding-left: -56px; padding-right: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n14",
+    "property": "@media (min-width: 1904px) { padding-left: -56px; padding-right: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n15",
+    "property": "padding-left: -60px; padding-right: -60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n15",
+    "property": "@media (min-width: 600px) { padding-left: -60px; padding-right: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n15",
+    "property": "@media (min-width: 960px) { padding-left: -60px; padding-right: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n15",
+    "property": "@media (min-width: 1264px) { padding-left: -60px; padding-right: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n15",
+    "property": "@media (min-width: 1904px) { padding-left: -60px; padding-right: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-n16",
+    "property": "padding-left: -64px; padding-right: -64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-sm-n16",
+    "property": "@media (min-width: 600px) { padding-left: -64px; padding-right: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-md-n16",
+    "property": "@media (min-width: 960px) { padding-left: -64px; padding-right: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-lg-n16",
+    "property": "@media (min-width: 1264px) { padding-left: -64px; padding-right: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "px-xl-n16",
+    "property": "@media (min-width: 1904px) { padding-left: -64px; padding-right: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-0",
+    "property": "padding-top: -0; padding-bottom: -0;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-0",
+    "property": "@media (min-width: 600px) { padding-top: -0; padding-bottom: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-0",
+    "property": "@media (min-width: 960px) { padding-top: -0; padding-bottom: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-0",
+    "property": "@media (min-width: 1264px) { padding-top: -0; padding-bottom: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-0",
+    "property": "@media (min-width: 1904px) { padding-top: -0; padding-bottom: -0; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n1",
+    "property": "padding-top: -4px; padding-bottom: -4px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n1",
+    "property": "@media (min-width: 600px) { padding-top: -4px; padding-bottom: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n1",
+    "property": "@media (min-width: 960px) { padding-top: -4px; padding-bottom: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n1",
+    "property": "@media (min-width: 1264px) { padding-top: -4px; padding-bottom: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n1",
+    "property": "@media (min-width: 1904px) { padding-top: -4px; padding-bottom: -4px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n2",
+    "property": "padding-top: -8px; padding-bottom: -8px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n2",
+    "property": "@media (min-width: 600px) { padding-top: -8px; padding-bottom: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n2",
+    "property": "@media (min-width: 960px) { padding-top: -8px; padding-bottom: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n2",
+    "property": "@media (min-width: 1264px) { padding-top: -8px; padding-bottom: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n2",
+    "property": "@media (min-width: 1904px) { padding-top: -8px; padding-bottom: -8px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n3",
+    "property": "padding-top: -12px; padding-bottom: -12px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n3",
+    "property": "@media (min-width: 600px) { padding-top: -12px; padding-bottom: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n3",
+    "property": "@media (min-width: 960px) { padding-top: -12px; padding-bottom: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n3",
+    "property": "@media (min-width: 1264px) { padding-top: -12px; padding-bottom: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n3",
+    "property": "@media (min-width: 1904px) { padding-top: -12px; padding-bottom: -12px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n4",
+    "property": "padding-top: -16px; padding-bottom: -16px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n4",
+    "property": "@media (min-width: 600px) { padding-top: -16px; padding-bottom: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n4",
+    "property": "@media (min-width: 960px) { padding-top: -16px; padding-bottom: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n4",
+    "property": "@media (min-width: 1264px) { padding-top: -16px; padding-bottom: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n4",
+    "property": "@media (min-width: 1904px) { padding-top: -16px; padding-bottom: -16px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n5",
+    "property": "padding-top: -20px; padding-bottom: -20px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n5",
+    "property": "@media (min-width: 600px) { padding-top: -20px; padding-bottom: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n5",
+    "property": "@media (min-width: 960px) { padding-top: -20px; padding-bottom: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n5",
+    "property": "@media (min-width: 1264px) { padding-top: -20px; padding-bottom: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n5",
+    "property": "@media (min-width: 1904px) { padding-top: -20px; padding-bottom: -20px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n6",
+    "property": "padding-top: -24px; padding-bottom: -24px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n6",
+    "property": "@media (min-width: 600px) { padding-top: -24px; padding-bottom: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n6",
+    "property": "@media (min-width: 960px) { padding-top: -24px; padding-bottom: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n6",
+    "property": "@media (min-width: 1264px) { padding-top: -24px; padding-bottom: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n6",
+    "property": "@media (min-width: 1904px) { padding-top: -24px; padding-bottom: -24px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n7",
+    "property": "padding-top: -28px; padding-bottom: -28px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n7",
+    "property": "@media (min-width: 600px) { padding-top: -28px; padding-bottom: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n7",
+    "property": "@media (min-width: 960px) { padding-top: -28px; padding-bottom: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n7",
+    "property": "@media (min-width: 1264px) { padding-top: -28px; padding-bottom: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n7",
+    "property": "@media (min-width: 1904px) { padding-top: -28px; padding-bottom: -28px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n8",
+    "property": "padding-top: -32px; padding-bottom: -32px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n8",
+    "property": "@media (min-width: 600px) { padding-top: -32px; padding-bottom: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n8",
+    "property": "@media (min-width: 960px) { padding-top: -32px; padding-bottom: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n8",
+    "property": "@media (min-width: 1264px) { padding-top: -32px; padding-bottom: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n8",
+    "property": "@media (min-width: 1904px) { padding-top: -32px; padding-bottom: -32px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n9",
+    "property": "padding-top: -36px; padding-bottom: -36px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n9",
+    "property": "@media (min-width: 600px) { padding-top: -36px; padding-bottom: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n9",
+    "property": "@media (min-width: 960px) { padding-top: -36px; padding-bottom: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n9",
+    "property": "@media (min-width: 1264px) { padding-top: -36px; padding-bottom: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n9",
+    "property": "@media (min-width: 1904px) { padding-top: -36px; padding-bottom: -36px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n10",
+    "property": "padding-top: -40px; padding-bottom: -40px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n10",
+    "property": "@media (min-width: 600px) { padding-top: -40px; padding-bottom: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n10",
+    "property": "@media (min-width: 960px) { padding-top: -40px; padding-bottom: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n10",
+    "property": "@media (min-width: 1264px) { padding-top: -40px; padding-bottom: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n10",
+    "property": "@media (min-width: 1904px) { padding-top: -40px; padding-bottom: -40px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n11",
+    "property": "padding-top: -44px; padding-bottom: -44px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n11",
+    "property": "@media (min-width: 600px) { padding-top: -44px; padding-bottom: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n11",
+    "property": "@media (min-width: 960px) { padding-top: -44px; padding-bottom: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n11",
+    "property": "@media (min-width: 1264px) { padding-top: -44px; padding-bottom: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n11",
+    "property": "@media (min-width: 1904px) { padding-top: -44px; padding-bottom: -44px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n12",
+    "property": "padding-top: -48px; padding-bottom: -48px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n12",
+    "property": "@media (min-width: 600px) { padding-top: -48px; padding-bottom: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n12",
+    "property": "@media (min-width: 960px) { padding-top: -48px; padding-bottom: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n12",
+    "property": "@media (min-width: 1264px) { padding-top: -48px; padding-bottom: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n12",
+    "property": "@media (min-width: 1904px) { padding-top: -48px; padding-bottom: -48px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n13",
+    "property": "padding-top: -52px; padding-bottom: -52px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n13",
+    "property": "@media (min-width: 600px) { padding-top: -52px; padding-bottom: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n13",
+    "property": "@media (min-width: 960px) { padding-top: -52px; padding-bottom: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n13",
+    "property": "@media (min-width: 1264px) { padding-top: -52px; padding-bottom: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n13",
+    "property": "@media (min-width: 1904px) { padding-top: -52px; padding-bottom: -52px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n14",
+    "property": "padding-top: -56px; padding-bottom: -56px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n14",
+    "property": "@media (min-width: 600px) { padding-top: -56px; padding-bottom: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n14",
+    "property": "@media (min-width: 960px) { padding-top: -56px; padding-bottom: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n14",
+    "property": "@media (min-width: 1264px) { padding-top: -56px; padding-bottom: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n14",
+    "property": "@media (min-width: 1904px) { padding-top: -56px; padding-bottom: -56px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n15",
+    "property": "padding-top: -60px; padding-bottom: -60px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n15",
+    "property": "@media (min-width: 600px) { padding-top: -60px; padding-bottom: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n15",
+    "property": "@media (min-width: 960px) { padding-top: -60px; padding-bottom: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n15",
+    "property": "@media (min-width: 1264px) { padding-top: -60px; padding-bottom: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n15",
+    "property": "@media (min-width: 1904px) { padding-top: -60px; padding-bottom: -60px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-n16",
+    "property": "padding-top: -64px; padding-bottom: -64px;",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-sm-n16",
+    "property": "@media (min-width: 600px) { padding-top: -64px; padding-bottom: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-md-n16",
+    "property": "@media (min-width: 960px) { padding-top: -64px; padding-bottom: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-lg-n16",
+    "property": "@media (min-width: 1264px) { padding-top: -64px; padding-bottom: -64px; }",
+    "category": "Spacing"
+  },
+  {
+    "class": "py-xl-n16",
+    "property": "@media (min-width: 1904px) { padding-top: -64px; padding-bottom: -64px; }",
+    "category": "Spacing"
+  }
 ]
