@@ -1,1 +1,1287 @@
-[]
+[
+  {
+    "class": "red",
+    "property": "#f44336",
+    "category": "Color"
+  },
+  {
+    "class": "red lighten5",
+    "property": "#ffebee",
+    "category": "Color"
+  },
+  {
+    "class": "red lighten4",
+    "property": "#ffcdd2",
+    "category": "Color"
+  },
+  {
+    "class": "red lighten3",
+    "property": "#ef9a9a",
+    "category": "Color"
+  },
+  {
+    "class": "red lighten2",
+    "property": "#e57373",
+    "category": "Color"
+  },
+  {
+    "class": "red lighten1",
+    "property": "#ef5350",
+    "category": "Color"
+  },
+  {
+    "class": "red darken1",
+    "property": "#e53935",
+    "category": "Color"
+  },
+  {
+    "class": "red darken2",
+    "property": "#d32f2f",
+    "category": "Color"
+  },
+  {
+    "class": "red darken3",
+    "property": "#c62828",
+    "category": "Color"
+  },
+  {
+    "class": "red darken4",
+    "property": "#b71c1c",
+    "category": "Color"
+  },
+  {
+    "class": "red accent1",
+    "property": "#ff8a80",
+    "category": "Color"
+  },
+  {
+    "class": "red accent2",
+    "property": "#ff5252",
+    "category": "Color"
+  },
+  {
+    "class": "red accent3",
+    "property": "#ff1744",
+    "category": "Color"
+  },
+  {
+    "class": "red accent4",
+    "property": "#d50000",
+    "category": "Color"
+  },
+  {
+    "class": "pink",
+    "property": "#e91e63",
+    "category": "Color"
+  },
+  {
+    "class": "pink lighten5",
+    "property": "#fce4ec",
+    "category": "Color"
+  },
+  {
+    "class": "pink lighten4",
+    "property": "#f8bbd0",
+    "category": "Color"
+  },
+  {
+    "class": "pink lighten3",
+    "property": "#f48fb1",
+    "category": "Color"
+  },
+  {
+    "class": "pink lighten2",
+    "property": "#f06292",
+    "category": "Color"
+  },
+  {
+    "class": "pink lighten1",
+    "property": "#ec407a",
+    "category": "Color"
+  },
+  {
+    "class": "pink darken1",
+    "property": "#d81b60",
+    "category": "Color"
+  },
+  {
+    "class": "pink darken2",
+    "property": "#c2185b",
+    "category": "Color"
+  },
+  {
+    "class": "pink darken3",
+    "property": "#ad1457",
+    "category": "Color"
+  },
+  {
+    "class": "pink darken4",
+    "property": "#880e4f",
+    "category": "Color"
+  },
+  {
+    "class": "pink accent1",
+    "property": "#ff80ab",
+    "category": "Color"
+  },
+  {
+    "class": "pink accent2",
+    "property": "#ff4081",
+    "category": "Color"
+  },
+  {
+    "class": "pink accent3",
+    "property": "#f50057",
+    "category": "Color"
+  },
+  {
+    "class": "pink accent4",
+    "property": "#c51162",
+    "category": "Color"
+  },
+  {
+    "class": "purple",
+    "property": "#9c27b0",
+    "category": "Color"
+  },
+  {
+    "class": "purple lighten5",
+    "property": "#f3e5f5",
+    "category": "Color"
+  },
+  {
+    "class": "purple lighten4",
+    "property": "#e1bee7",
+    "category": "Color"
+  },
+  {
+    "class": "purple lighten3",
+    "property": "#ce93d8",
+    "category": "Color"
+  },
+  {
+    "class": "purple lighten2",
+    "property": "#ba68c8",
+    "category": "Color"
+  },
+  {
+    "class": "purple lighten1",
+    "property": "#ab47bc",
+    "category": "Color"
+  },
+  {
+    "class": "purple darken1",
+    "property": "#8e24aa",
+    "category": "Color"
+  },
+  {
+    "class": "purple darken2",
+    "property": "#7b1fa2",
+    "category": "Color"
+  },
+  {
+    "class": "purple darken3",
+    "property": "#6a1b9a",
+    "category": "Color"
+  },
+  {
+    "class": "purple darken4",
+    "property": "#4a148c",
+    "category": "Color"
+  },
+  {
+    "class": "purple accent1",
+    "property": "#ea80fc",
+    "category": "Color"
+  },
+  {
+    "class": "purple accent2",
+    "property": "#e040fb",
+    "category": "Color"
+  },
+  {
+    "class": "purple accent3",
+    "property": "#d500f9",
+    "category": "Color"
+  },
+  {
+    "class": "purple accent4",
+    "property": "#aa00ff",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple",
+    "property": "#673ab7",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple lighten5",
+    "property": "#ede7f6",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple lighten4",
+    "property": "#d1c4e9",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple lighten3",
+    "property": "#b39ddb",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple lighten2",
+    "property": "#9575cd",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple lighten1",
+    "property": "#7e57c2",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple darken1",
+    "property": "#5e35b1",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple darken2",
+    "property": "#512da8",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple darken3",
+    "property": "#4527a0",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple darken4",
+    "property": "#311b92",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple accent1",
+    "property": "#b388ff",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple accent2",
+    "property": "#7c4dff",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple accent3",
+    "property": "#651fff",
+    "category": "Color"
+  },
+  {
+    "class": "deep-purple accent4",
+    "property": "#6200ea",
+    "category": "Color"
+  },
+  {
+    "class": "indigo",
+    "property": "#3f51b5",
+    "category": "Color"
+  },
+  {
+    "class": "indigo lighten5",
+    "property": "#e8eaf6",
+    "category": "Color"
+  },
+  {
+    "class": "indigo lighten4",
+    "property": "#c5cae9",
+    "category": "Color"
+  },
+  {
+    "class": "indigo lighten3",
+    "property": "#9fa8da",
+    "category": "Color"
+  },
+  {
+    "class": "indigo lighten2",
+    "property": "#7986cb",
+    "category": "Color"
+  },
+  {
+    "class": "indigo lighten1",
+    "property": "#5c6bc0",
+    "category": "Color"
+  },
+  {
+    "class": "indigo darken1",
+    "property": "#3949ab",
+    "category": "Color"
+  },
+  {
+    "class": "indigo darken2",
+    "property": "#303f9f",
+    "category": "Color"
+  },
+  {
+    "class": "indigo darken3",
+    "property": "#283593",
+    "category": "Color"
+  },
+  {
+    "class": "indigo darken4",
+    "property": "#1a237e",
+    "category": "Color"
+  },
+  {
+    "class": "indigo accent1",
+    "property": "#8c9eff",
+    "category": "Color"
+  },
+  {
+    "class": "indigo accent2",
+    "property": "#536dfe",
+    "category": "Color"
+  },
+  {
+    "class": "indigo accent3",
+    "property": "#3d5afe",
+    "category": "Color"
+  },
+  {
+    "class": "indigo accent4",
+    "property": "#304ffe",
+    "category": "Color"
+  },
+  {
+    "class": "blue",
+    "property": "#2196f3",
+    "category": "Color"
+  },
+  {
+    "class": "blue lighten5",
+    "property": "#e3f2fd",
+    "category": "Color"
+  },
+  {
+    "class": "blue lighten4",
+    "property": "#bbdefb",
+    "category": "Color"
+  },
+  {
+    "class": "blue lighten3",
+    "property": "#90caf9",
+    "category": "Color"
+  },
+  {
+    "class": "blue lighten2",
+    "property": "#64b5f6",
+    "category": "Color"
+  },
+  {
+    "class": "blue lighten1",
+    "property": "#42a5f5",
+    "category": "Color"
+  },
+  {
+    "class": "blue darken1",
+    "property": "#1e88e5",
+    "category": "Color"
+  },
+  {
+    "class": "blue darken2",
+    "property": "#1976d2",
+    "category": "Color"
+  },
+  {
+    "class": "blue darken3",
+    "property": "#1565c0",
+    "category": "Color"
+  },
+  {
+    "class": "blue darken4",
+    "property": "#0d47a1",
+    "category": "Color"
+  },
+  {
+    "class": "blue accent1",
+    "property": "#82b1ff",
+    "category": "Color"
+  },
+  {
+    "class": "blue accent2",
+    "property": "#448aff",
+    "category": "Color"
+  },
+  {
+    "class": "blue accent3",
+    "property": "#2979ff",
+    "category": "Color"
+  },
+  {
+    "class": "blue accent4",
+    "property": "#2962ff",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue",
+    "property": "#03a9f4",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue lighten5",
+    "property": "#e1f5fe",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue lighten4",
+    "property": "#b3e5fc",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue lighten3",
+    "property": "#81d4fa",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue lighten2",
+    "property": "#4fc3f7",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue lighten1",
+    "property": "#29b6f6",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue darken1",
+    "property": "#039be5",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue darken2",
+    "property": "#0288d1",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue darken3",
+    "property": "#0277bd",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue darken4",
+    "property": "#01579b",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue accent1",
+    "property": "#80d8ff",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue accent2",
+    "property": "#40c4ff",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue accent3",
+    "property": "#00b0ff",
+    "category": "Color"
+  },
+  {
+    "class": "light-blue accent4",
+    "property": "#0091ea",
+    "category": "Color"
+  },
+  {
+    "class": "cyan",
+    "property": "#00bcd4",
+    "category": "Color"
+  },
+  {
+    "class": "cyan lighten5",
+    "property": "#e0f7fa",
+    "category": "Color"
+  },
+  {
+    "class": "cyan lighten4",
+    "property": "#b2ebf2",
+    "category": "Color"
+  },
+  {
+    "class": "cyan lighten3",
+    "property": "#80deea",
+    "category": "Color"
+  },
+  {
+    "class": "cyan lighten2",
+    "property": "#4dd0e1",
+    "category": "Color"
+  },
+  {
+    "class": "cyan lighten1",
+    "property": "#26c6da",
+    "category": "Color"
+  },
+  {
+    "class": "cyan darken1",
+    "property": "#00acc1",
+    "category": "Color"
+  },
+  {
+    "class": "cyan darken2",
+    "property": "#0097a7",
+    "category": "Color"
+  },
+  {
+    "class": "cyan darken3",
+    "property": "#00838f",
+    "category": "Color"
+  },
+  {
+    "class": "cyan darken4",
+    "property": "#006064",
+    "category": "Color"
+  },
+  {
+    "class": "cyan accent1",
+    "property": "#84ffff",
+    "category": "Color"
+  },
+  {
+    "class": "cyan accent2",
+    "property": "#18ffff",
+    "category": "Color"
+  },
+  {
+    "class": "cyan accent3",
+    "property": "#00e5ff",
+    "category": "Color"
+  },
+  {
+    "class": "cyan accent4",
+    "property": "#00b8d4",
+    "category": "Color"
+  },
+  {
+    "class": "teal",
+    "property": "#009688",
+    "category": "Color"
+  },
+  {
+    "class": "teal lighten5",
+    "property": "#e0f2f1",
+    "category": "Color"
+  },
+  {
+    "class": "teal lighten4",
+    "property": "#b2dfdb",
+    "category": "Color"
+  },
+  {
+    "class": "teal lighten3",
+    "property": "#80cbc4",
+    "category": "Color"
+  },
+  {
+    "class": "teal lighten2",
+    "property": "#4db6ac",
+    "category": "Color"
+  },
+  {
+    "class": "teal lighten1",
+    "property": "#26a69a",
+    "category": "Color"
+  },
+  {
+    "class": "teal darken1",
+    "property": "#00897b",
+    "category": "Color"
+  },
+  {
+    "class": "teal darken2",
+    "property": "#00796b",
+    "category": "Color"
+  },
+  {
+    "class": "teal darken3",
+    "property": "#00695c",
+    "category": "Color"
+  },
+  {
+    "class": "teal darken4",
+    "property": "#004d40",
+    "category": "Color"
+  },
+  {
+    "class": "teal accent1",
+    "property": "#a7ffeb",
+    "category": "Color"
+  },
+  {
+    "class": "teal accent2",
+    "property": "#64ffda",
+    "category": "Color"
+  },
+  {
+    "class": "teal accent3",
+    "property": "#1de9b6",
+    "category": "Color"
+  },
+  {
+    "class": "teal accent4",
+    "property": "#00bfa5",
+    "category": "Color"
+  },
+  {
+    "class": "green",
+    "property": "#4caf50",
+    "category": "Color"
+  },
+  {
+    "class": "green lighten5",
+    "property": "#e8f5e9",
+    "category": "Color"
+  },
+  {
+    "class": "green lighten4",
+    "property": "#c8e6c9",
+    "category": "Color"
+  },
+  {
+    "class": "green lighten3",
+    "property": "#a5d6a7",
+    "category": "Color"
+  },
+  {
+    "class": "green lighten2",
+    "property": "#81c784",
+    "category": "Color"
+  },
+  {
+    "class": "green lighten1",
+    "property": "#66bb6a",
+    "category": "Color"
+  },
+  {
+    "class": "green darken1",
+    "property": "#43a047",
+    "category": "Color"
+  },
+  {
+    "class": "green darken2",
+    "property": "#388e3c",
+    "category": "Color"
+  },
+  {
+    "class": "green darken3",
+    "property": "#2e7d32",
+    "category": "Color"
+  },
+  {
+    "class": "green darken4",
+    "property": "#1b5e20",
+    "category": "Color"
+  },
+  {
+    "class": "green accent1",
+    "property": "#b9f6ca",
+    "category": "Color"
+  },
+  {
+    "class": "green accent2",
+    "property": "#69f0ae",
+    "category": "Color"
+  },
+  {
+    "class": "green accent3",
+    "property": "#00e676",
+    "category": "Color"
+  },
+  {
+    "class": "green accent4",
+    "property": "#00c853",
+    "category": "Color"
+  },
+  {
+    "class": "light-green",
+    "property": "#8bc34a",
+    "category": "Color"
+  },
+  {
+    "class": "light-green lighten5",
+    "property": "#f1f8e9",
+    "category": "Color"
+  },
+  {
+    "class": "light-green lighten4",
+    "property": "#dcedc8",
+    "category": "Color"
+  },
+  {
+    "class": "light-green lighten3",
+    "property": "#c5e1a5",
+    "category": "Color"
+  },
+  {
+    "class": "light-green lighten2",
+    "property": "#aed581",
+    "category": "Color"
+  },
+  {
+    "class": "light-green lighten1",
+    "property": "#9ccc65",
+    "category": "Color"
+  },
+  {
+    "class": "light-green darken1",
+    "property": "#7cb342",
+    "category": "Color"
+  },
+  {
+    "class": "light-green darken2",
+    "property": "#689f38",
+    "category": "Color"
+  },
+  {
+    "class": "light-green darken3",
+    "property": "#558b2f",
+    "category": "Color"
+  },
+  {
+    "class": "light-green darken4",
+    "property": "#33691e",
+    "category": "Color"
+  },
+  {
+    "class": "light-green accent1",
+    "property": "#ccff90",
+    "category": "Color"
+  },
+  {
+    "class": "light-green accent2",
+    "property": "#b2ff59",
+    "category": "Color"
+  },
+  {
+    "class": "light-green accent3",
+    "property": "#76ff03",
+    "category": "Color"
+  },
+  {
+    "class": "light-green accent4",
+    "property": "#64dd17",
+    "category": "Color"
+  },
+  {
+    "class": "lime",
+    "property": "#cddc39",
+    "category": "Color"
+  },
+  {
+    "class": "lime lighten5",
+    "property": "#f9fbe7",
+    "category": "Color"
+  },
+  {
+    "class": "lime lighten4",
+    "property": "#f0f4c3",
+    "category": "Color"
+  },
+  {
+    "class": "lime lighten3",
+    "property": "#e6ee9c",
+    "category": "Color"
+  },
+  {
+    "class": "lime lighten2",
+    "property": "#dce775",
+    "category": "Color"
+  },
+  {
+    "class": "lime lighten1",
+    "property": "#d4e157",
+    "category": "Color"
+  },
+  {
+    "class": "lime darken1",
+    "property": "#c0ca33",
+    "category": "Color"
+  },
+  {
+    "class": "lime darken2",
+    "property": "#afb42b",
+    "category": "Color"
+  },
+  {
+    "class": "lime darken3",
+    "property": "#9e9d24",
+    "category": "Color"
+  },
+  {
+    "class": "lime darken4",
+    "property": "#827717",
+    "category": "Color"
+  },
+  {
+    "class": "lime accent1",
+    "property": "#f4ff81",
+    "category": "Color"
+  },
+  {
+    "class": "lime accent2",
+    "property": "#eeff41",
+    "category": "Color"
+  },
+  {
+    "class": "lime accent3",
+    "property": "#c6ff00",
+    "category": "Color"
+  },
+  {
+    "class": "lime accent4",
+    "property": "#aeea00",
+    "category": "Color"
+  },
+  {
+    "class": "yellow",
+    "property": "#ffeb3b",
+    "category": "Color"
+  },
+  {
+    "class": "yellow lighten5",
+    "property": "#fffde7",
+    "category": "Color"
+  },
+  {
+    "class": "yellow lighten4",
+    "property": "#fff9c4",
+    "category": "Color"
+  },
+  {
+    "class": "yellow lighten3",
+    "property": "#fff59d",
+    "category": "Color"
+  },
+  {
+    "class": "yellow lighten2",
+    "property": "#fff176",
+    "category": "Color"
+  },
+  {
+    "class": "yellow lighten1",
+    "property": "#ffee58",
+    "category": "Color"
+  },
+  {
+    "class": "yellow darken1",
+    "property": "#fdd835",
+    "category": "Color"
+  },
+  {
+    "class": "yellow darken2",
+    "property": "#fbc02d",
+    "category": "Color"
+  },
+  {
+    "class": "yellow darken3",
+    "property": "#f9a825",
+    "category": "Color"
+  },
+  {
+    "class": "yellow darken4",
+    "property": "#f57f17",
+    "category": "Color"
+  },
+  {
+    "class": "yellow accent1",
+    "property": "#ffff8d",
+    "category": "Color"
+  },
+  {
+    "class": "yellow accent2",
+    "property": "#ffff00",
+    "category": "Color"
+  },
+  {
+    "class": "yellow accent3",
+    "property": "#ffea00",
+    "category": "Color"
+  },
+  {
+    "class": "yellow accent4",
+    "property": "#ffd600",
+    "category": "Color"
+  },
+  {
+    "class": "amber",
+    "property": "#ffc107",
+    "category": "Color"
+  },
+  {
+    "class": "amber lighten5",
+    "property": "#fff8e1",
+    "category": "Color"
+  },
+  {
+    "class": "amber lighten4",
+    "property": "#ffecb3",
+    "category": "Color"
+  },
+  {
+    "class": "amber lighten3",
+    "property": "#ffe082",
+    "category": "Color"
+  },
+  {
+    "class": "amber lighten2",
+    "property": "#ffd54f",
+    "category": "Color"
+  },
+  {
+    "class": "amber lighten1",
+    "property": "#ffca28",
+    "category": "Color"
+  },
+  {
+    "class": "amber darken1",
+    "property": "#ffb300",
+    "category": "Color"
+  },
+  {
+    "class": "amber darken2",
+    "property": "#ffa000",
+    "category": "Color"
+  },
+  {
+    "class": "amber darken3",
+    "property": "#ff8f00",
+    "category": "Color"
+  },
+  {
+    "class": "amber darken4",
+    "property": "#ff6f00",
+    "category": "Color"
+  },
+  {
+    "class": "amber accent1",
+    "property": "#ffe57f",
+    "category": "Color"
+  },
+  {
+    "class": "amber accent2",
+    "property": "#ffd740",
+    "category": "Color"
+  },
+  {
+    "class": "amber accent3",
+    "property": "#ffc400",
+    "category": "Color"
+  },
+  {
+    "class": "amber accent4",
+    "property": "#ffab00",
+    "category": "Color"
+  },
+  {
+    "class": "orange",
+    "property": "#ff9800",
+    "category": "Color"
+  },
+  {
+    "class": "orange lighten5",
+    "property": "#fff3e0",
+    "category": "Color"
+  },
+  {
+    "class": "orange lighten4",
+    "property": "#ffe0b2",
+    "category": "Color"
+  },
+  {
+    "class": "orange lighten3",
+    "property": "#ffcc80",
+    "category": "Color"
+  },
+  {
+    "class": "orange lighten2",
+    "property": "#ffb74d",
+    "category": "Color"
+  },
+  {
+    "class": "orange lighten1",
+    "property": "#ffa726",
+    "category": "Color"
+  },
+  {
+    "class": "orange darken1",
+    "property": "#fb8c00",
+    "category": "Color"
+  },
+  {
+    "class": "orange darken2",
+    "property": "#f57c00",
+    "category": "Color"
+  },
+  {
+    "class": "orange darken3",
+    "property": "#ef6c00",
+    "category": "Color"
+  },
+  {
+    "class": "orange darken4",
+    "property": "#e65100",
+    "category": "Color"
+  },
+  {
+    "class": "orange accent1",
+    "property": "#ffd180",
+    "category": "Color"
+  },
+  {
+    "class": "orange accent2",
+    "property": "#ffab40",
+    "category": "Color"
+  },
+  {
+    "class": "orange accent3",
+    "property": "#ff9100",
+    "category": "Color"
+  },
+  {
+    "class": "orange accent4",
+    "property": "#ff6d00",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange",
+    "property": "#ff5722",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange lighten5",
+    "property": "#fbe9e7",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange lighten4",
+    "property": "#ffccbc",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange lighten3",
+    "property": "#ffab91",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange lighten2",
+    "property": "#ff8a65",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange lighten1",
+    "property": "#ff7043",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange darken1",
+    "property": "#f4511e",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange darken2",
+    "property": "#e64a19",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange darken3",
+    "property": "#d84315",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange darken4",
+    "property": "#bf360c",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange accent1",
+    "property": "#ff9e80",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange accent2",
+    "property": "#ff6e40",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange accent3",
+    "property": "#ff3d00",
+    "category": "Color"
+  },
+  {
+    "class": "deep-orange accent4",
+    "property": "#dd2c00",
+    "category": "Color"
+  },
+  {
+    "class": "brown",
+    "property": "#795548",
+    "category": "Color"
+  },
+  {
+    "class": "brown lighten5",
+    "property": "#efebe9",
+    "category": "Color"
+  },
+  {
+    "class": "brown lighten4",
+    "property": "#d7ccc8",
+    "category": "Color"
+  },
+  {
+    "class": "brown lighten3",
+    "property": "#bcaaa4",
+    "category": "Color"
+  },
+  {
+    "class": "brown lighten2",
+    "property": "#a1887f",
+    "category": "Color"
+  },
+  {
+    "class": "brown lighten1",
+    "property": "#8d6e63",
+    "category": "Color"
+  },
+  {
+    "class": "brown darken1",
+    "property": "#6d4c41",
+    "category": "Color"
+  },
+  {
+    "class": "brown darken2",
+    "property": "#5d4037",
+    "category": "Color"
+  },
+  {
+    "class": "brown darken3",
+    "property": "#4e342e",
+    "category": "Color"
+  },
+  {
+    "class": "brown darken4",
+    "property": "#3e2723",
+    "category": "Color"
+  },
+  {
+    "class": "blue-grey",
+    "property": "#607d8b",
+    "category": "Color"
+  },
+  {
+    "class": "blue-grey lighten5",
+    "property": "#eceff1",
+    "category": "Color"
+  },
+  {
+    "class": "blue-grey lighten4",
+    "property": "#cfd8dc",
+    "category": "Color"
+  },
+  {
+    "class": "blue-grey lighten3",
+    "property": "#b0bec5",
+    "category": "Color"
+  },
+  {
+    "class": "blue-grey lighten2",
+    "property": "#90a4ae",
+    "category": "Color"
+  },
+  {
+    "class": "blue-grey lighten1",
+    "property": "#78909c",
+    "category": "Color"
+  },
+  {
+    "class": "blue-grey darken1",
+    "property": "#546e7a",
+    "category": "Color"
+  },
+  {
+    "class": "blue-grey darken2",
+    "property": "#455a64",
+    "category": "Color"
+  },
+  {
+    "class": "blue-grey darken3",
+    "property": "#37474f",
+    "category": "Color"
+  },
+  {
+    "class": "blue-grey darken4",
+    "property": "#263238",
+    "category": "Color"
+  },
+  {
+    "class": "grey",
+    "property": "#9e9e9e",
+    "category": "Color"
+  },
+  {
+    "class": "grey lighten5",
+    "property": "#fafafa",
+    "category": "Color"
+  },
+  {
+    "class": "grey lighten4",
+    "property": "#f5f5f5",
+    "category": "Color"
+  },
+  {
+    "class": "grey lighten3",
+    "property": "#eeeeee",
+    "category": "Color"
+  },
+  {
+    "class": "grey lighten2",
+    "property": "#e0e0e0",
+    "category": "Color"
+  },
+  {
+    "class": "grey lighten1",
+    "property": "#bdbdbd",
+    "category": "Color"
+  },
+  {
+    "class": "grey darken1",
+    "property": "#757575",
+    "category": "Color"
+  },
+  {
+    "class": "grey darken2",
+    "property": "#616161",
+    "category": "Color"
+  },
+  {
+    "class": "grey darken3",
+    "property": "#424242",
+    "category": "Color"
+  },
+  {
+    "class": "grey darken4",
+    "property": "#212121",
+    "category": "Color"
+  },
+  {
+    "class": "black",
+    "property": "#000000",
+    "category": "Color"
+  },
+  {
+    "class": "white",
+    "property": "#ffffff",
+    "category": "Color"
+  },
+  {
+    "class": "transparent",
+    "property": "transparent",
+    "category": "Color"
+  }
+]

@@ -7,8 +7,7 @@
           v-model="search"
           append-icon="mdi-magnify"
           label="Search"
-          solo
-          single-line
+          outlined
           hide-details
           clearable
         />
@@ -22,11 +21,20 @@
         group-by="category"
         :items-per-page="-1"
       >
-        <template v-slot:item.actions="{ item }">
-          <v-icon
-            small
-            @click="copyClass(item)"
-          >
+        <template v-slot:item.class="{ item }">
+          <span class="item-text">{{ item.class }}</span>
+          <v-icon class="icon" small @click="copy(item.class)">
+            mdi-content-copy
+          </v-icon>
+        </template>
+        <template v-slot:item.property="{ item }">
+          <span class="item-text">{{ item.property }}</span>
+          <span
+            v-if="item.property.startsWith('#')"
+            class="color-block"
+            :style="`background-color: ${item.property}`"
+          />
+          <v-icon class="icon" small @click="copy(item.property)">
             mdi-content-copy
           </v-icon>
         </template>
@@ -49,26 +57,51 @@ export default {
         { text: 'Category', value: 'category', align: 'right' },
         { value: 'actions', sortable: false }
       ],
-      classes: classes
+      classes
     }
   },
   methods: {
-    copyClass(item) {
-      console.log(this.classes)
-      console.log(item.class)
+    copy(text) {
+      console.log(text)
     }
   }
 }
 </script>
 
 <style lang="sass">
-  .v-row-group__header
-    td button:not(:first-child)
-      display: none
-  tr
-    td
-      color: #574ee6
-      white-space: pre-line
-    td:first-child
-      color: #10a5e9
+.v-row-group__header
+  td button:not(:first-child)
+    display: none
+tr
+  td
+    color: #574ee6
+    white-space: pre-line
+
+  td:first-child
+    color: #10a5e9
+
+  .text-start
+    padding-top: 5px !important
+    padding-bottom: 5px !important
+
+    &:first-child
+      width: 300px
+    & .icon
+      margin-left: 5px
+      visibility: hidden
+
+  &:hover .icon
+    visibility: visible
+
+.item-text
+  display: inline-block
+  min-width: 70px
+  line-height: 24px
+
+.color-block
+  display: inline-block
+  height: 20px
+  width: 50px
+  margin-bottom: -5px
+  margin-left: 5px
 </style>
