@@ -360,6 +360,16 @@
     "category": "Typography"
   },
   {
+    "class": "text-start",
+    "property": "text-align: start;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-end",
+    "property": "text-align: end;",
+    "category": "Typography"
+  },
+  {
     "class": "text-left",
     "property": "text-align: left;",
     "category": "Typography"
