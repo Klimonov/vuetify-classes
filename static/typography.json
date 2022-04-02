@@ -323,5 +323,185 @@
     "class": "text-xl-overline",
     "property": "@media (min-width: 1904px) { font-size: 0.75rem;\nline-height: 2rem;\nfont-weight: 500;\ntext-transform: uppercase; }",
     "category": "Typography"
+  },
+  {
+    "class": "font-weight-black",
+    "property": "font-weight: 900;",
+    "category": "Typography"
+  },
+  {
+    "class": "font-weight-bold",
+    "property": "font-weight: 900;",
+    "category": "Typography"
+  },
+  {
+    "class": "font-weight-medium",
+    "property": "font-weight: 700;",
+    "category": "Typography"
+  },
+  {
+    "class": "font-weight-regular",
+    "property": "font-weight: 400;",
+    "category": "Typography"
+  },
+  {
+    "class": "font-weight-light",
+    "property": "font-weight: 300;",
+    "category": "Typography"
+  },
+  {
+    "class": "font-weight-thin",
+    "property": "font-weight: 100;",
+    "category": "Typography"
+  },
+  {
+    "class": "font-italic",
+    "property": "font-style: italic;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-left",
+    "property": "text-align: left;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-sm-left",
+    "property": "@media (min-width: 600px) { text-align: left; }",
+    "category": "Typography"
+  },
+  {
+    "class": "text-md-left",
+    "property": "@media (min-width: 960px) { text-align: left; }",
+    "category": "Typography"
+  },
+  {
+    "class": "text-lg-left",
+    "property": "@media (min-width: 1264px) { text-align: left; }",
+    "category": "Typography"
+  },
+  {
+    "class": "text-xl-left",
+    "property": "@media (min-width: 1904px) { text-align: left; }",
+    "category": "Typography"
+  },
+  {
+    "class": "text-center",
+    "property": "text-align: center;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-sm-center",
+    "property": "@media (min-width: 600px) { text-align: center; }",
+    "category": "Typography"
+  },
+  {
+    "class": "text-md-center",
+    "property": "@media (min-width: 960px) { text-align: center; }",
+    "category": "Typography"
+  },
+  {
+    "class": "text-lg-center",
+    "property": "@media (min-width: 1264px) { text-align: center; }",
+    "category": "Typography"
+  },
+  {
+    "class": "text-xl-center",
+    "property": "@media (min-width: 1904px) { text-align: center; }",
+    "category": "Typography"
+  },
+  {
+    "class": "text-right",
+    "property": "text-align: right;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-sm-right",
+    "property": "@media (min-width: 600px) { text-align: right; }",
+    "category": "Typography"
+  },
+  {
+    "class": "text-md-right",
+    "property": "@media (min-width: 960px) { text-align: right; }",
+    "category": "Typography"
+  },
+  {
+    "class": "text-lg-right",
+    "property": "@media (min-width: 1264px) { text-align: right; }",
+    "category": "Typography"
+  },
+  {
+    "class": "text-xl-right",
+    "property": "@media (min-width: 1904px) { text-align: right; }",
+    "category": "Typography"
+  },
+  {
+    "class": "text-decoration-none",
+    "property": "text-decoration: none;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-decoration-line-through",
+    "property": "text-decoration: line-through;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-decoration-overline",
+    "property": "text-decoration: overline;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-decoration-underline",
+    "property": "text-decoration: underline;",
+    "category": "Typography"
+  },
+  {
+    "class": "text--primary",
+    "property": "color: rgba(0,0,0,.87);",
+    "category": "Typography"
+  },
+  {
+    "class": "text--secondary",
+    "property": "color: rgba(0,0,0,.6);",
+    "category": "Typography"
+  },
+  {
+    "class": "text--disabled",
+    "property": "color: rgba(0,0,0,.38);",
+    "category": "Typography"
+  },
+  {
+    "class": "text-lowercase",
+    "property": "text-transform: lowercase;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-uppercase",
+    "property": "text-transform: uppercase;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-capitalize",
+    "property": "text-transform: capitalize;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-none",
+    "property": "text-transform: none;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-break",
+    "property": "overflow-wrap: break-word;\nword-break: break-word;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-no-wrap",
+    "property": "white-space: nowrap;",
+    "category": "Typography"
+  },
+  {
+    "class": "text-truncate",
+    "property": "white-space: nowrap;\noverflow: hidden;\ntext-overflow: ellipsis;",
+    "category": "Typography"
   }
 ]
