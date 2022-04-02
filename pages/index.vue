@@ -1,4 +1,4 @@
-<template xmlns="http://www.w3.org/1999/html">
+<template>
   <div>
     <h1 class="text-center my-10 font-large">All Vuetify Classes in one place</h1>
     <v-card>
@@ -17,9 +17,8 @@
         :items="classes"
         :search="search"
         sort-by="class"
-        hide-default-footer
         group-by="category"
-        :items-per-page="-1"
+        :items-per-page="100"
       >
         <template v-slot:item.class="{ item }">
           <span class="item-text">{{ item.class }}</span>
@@ -50,19 +49,19 @@ export default {
   name: 'HomePage',
   data() {
     return {
+      classes,
       search: '',
       headers: [
         { text: 'Class', align: 'start', value: 'class', sortable: false },
         { text: 'Properties', align: 'start', value: 'property', sortable: false },
         { text: 'Category', value: 'category', align: 'right' },
         { value: 'actions', sortable: false }
-      ],
-      classes
+      ]
     }
   },
   methods: {
     copy(text) {
-      console.log(text)
+      navigator.clipboard.writeText(text)
     }
   }
 }
