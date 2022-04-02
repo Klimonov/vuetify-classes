@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "class": "overflow-auto",
+    "property":"overflow: auto;",
+    "category": "Overflow"
+  },
+  {
+    "class": "overflow-hidden",
+    "property":"overflow: hidden;",
+    "category": "Overflow"
+  },
+  {
+    "class": "overflow-visible",
+    "property":"overflow: visible;",
+    "category": "Overflow"
+  },
+  {
+    "class": "overflow-x-auto",
+    "property":"overflow-x: auto;",
+    "category": "Overflow"
+  },
+  {
+    "class": "overflow-x-hidden",
+    "property":"overflow-x: hidden;",
+    "category": "Overflow"
+  },
+  {
+    "class": "overflow-x-visible",
+    "property":"overflow-x: visible;",
+    "category": "Overflow"
+  },
+  {
+    "class": "overflow-y-auto",
+    "property":"overflow-y: auto;",
+    "category": "Overflow"
+  },
+  {
+    "class": "overflow-y-hidden",
+    "property":"overflow-y: hidden;",
+    "category": "Overflow"
+  },
+  {
+    "class": "overflow-y-visible",
+    "property":"overflow-y: visible;",
+    "category": "Overflow"
+  }
+]
