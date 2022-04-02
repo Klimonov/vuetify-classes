@@ -1,10 +1,5 @@
-import colors from 'vuetify/es5/util/colors'
-
 export default {
-  // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-
-  // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: 'Vuetify Classes',
     title: 'Vuetify Classes',
@@ -14,8 +9,22 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { hid: 'description', name: 'description', content: 'All vuetify classes in one place' },
+      { name: 'msapplication-TileColor', content: '#da532c' },
+      { name: 'theme-color', content: '#ffffff' },
+      { name: 'name', itemscope: true, itemtype: 'http://schema.org/WebPage', content: 'Vuetify Classes' },
+      { name: 'description', itemscope: true, itemtype: 'http://schema.org/WebPage', content: 'All vuetify classes in one place' },
+      { name: 'image', itemscope: true, itemtype: 'http://schema.org/WebPage', content: '/meta.png' },
+      { property: 'og:locale', content: 'en_US' },
+      { property: 'og:url', content: 'https://vuetify-classes.netlify.app/' },
+      { property: 'og:type', content: 'Vuetify Classes' },
+      { property: 'og:title', content: 'Vuetify Classes' },
+      { property: 'og:description', content: 'All vuetify classes in one place' },
+      { property: 'og:image', content: '/meta.png' },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:title', content: 'Vuetify Classes' },
+      { name: 'twitter:description', content: 'All vuetify classes in one place' },
+      { name: 'twitter:image', content: 'summary_large_image' }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
