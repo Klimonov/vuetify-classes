@@ -3976,31 +3976,6 @@
     "category": "Spacing"
   },
   {
-    "class": "mb-0",
-    "property": "margin-bottom: -0;",
-    "category": "Spacing"
-  },
-  {
-    "class": "mb-sm-0",
-    "property": "@media (min-width: 600px) { margin-bottom: -0; }",
-    "category": "Spacing"
-  },
-  {
-    "class": "mb-md-0",
-    "property": "@media (min-width: 960px) { margin-bottom: -0; }",
-    "category": "Spacing"
-  },
-  {
-    "class": "mb-lg-0",
-    "property": "@media (min-width: 1264px) { margin-bottom: -0; }",
-    "category": "Spacing"
-  },
-  {
-    "class": "mb-xl-0",
-    "property": "@media (min-width: 1904px) { margin-bottom: -0; }",
-    "category": "Spacing"
-  },
-  {
     "class": "mb-n1",
     "property": "margin-bottom: -4px;",
     "category": "Spacing"
